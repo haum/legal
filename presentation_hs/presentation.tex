@@ -1,0 +1,208 @@
+\documentclass[a4paper, 11pt]{report}
+
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[french]{babel}
+
+    % header/footer
+    \usepackage{fancyhdr}
+    \lhead{}
+    \chead{\bfseries Un Hackerspace au Mans}
+    \rhead{}
+    \lfoot{Octobre 2012}
+    \cfoot{}
+    \rfoot{\thepage}
+    \renewcommand{\headrulewidth}{0.4pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+
+    \newcommand{\hs}{{\itshape hackerspace}}
+    \newcommand{\hsss}{{\itshape hackerspaces}}
+    \newcommand{\hw}{{\itshape hardware}}
+    \newcommand{\sw}{{\itshape software}}
+
+    \usepackage{url}
+
+
+    % Premiere page
+    \title{Un Hackerspace au Mans}
+    \author{}
+    \date{Octobre 2012}
+
+\begin{document}
+
+    \maketitle
+
+    \tableofcontents
+    \newpage
+
+    \section{Un Hackerspace ?}
+
+    \subsection{Présentation}
+
+La définition d'un \hs{} est assez difficile à donner. Un {\it hacker} étant littéralement un {\it bidouilleur}, je
+pense qu'un \hs{} pourrait se définir comme un {\it lieu à bidouilleurs}.
+
+En fait, un \hs, c'est un endroit où des gens se retrouvent pour bricoler, coder, résoudre des problèmes, réfléchir,
+créer et partager un bon moment ensemble.
+
+Il est difficile de donner une définition au terme \hs{} parce que celle-ci varie en fonction des personnes
+présentes.
+
+La définition de Wikipedia\footnote{\url{http://fr.wikipedia.org/wiki/Hackerspace}} me semble plutôt bonne :
+
+\begin{quotation}
+Un hackerspace, hacklab ou media hacklab est un lieu où des gens avec un intérêt commun (souvent autour de
+l'informatique, de la technologie, des sciences, des arts\ldots) peuvent se rencontrer et collaborer. Les Hackerspaces
+peuvent être vus comme des laboratoires communautaires ouverts où des gens (les hackers) peuvent partager ressources
+et savoir.
+\end{quotation}
+
+Des hackerspaces existent un peu partout dans le monde (on en dénombre plus d'un millier) et notament en France.
+Ici, on compte environ une vingtaines de \hsss{} officiels et actifs et une myriades d'associations y ressemblant.
+Enfin, un certain nombre de \hsss{} sont en projet ou existent autour du Mans :
+
+\begin{itemize}
+    \item META à Blois\footnote{\url{http://www.facebook.com/meta.blois}}
+    \item Breizh Entropy Lab à Rennes\footnote{\url{http://breizh-entropy.org/}}
+    \item PiNG à Nantes\footnote{\url{http://www.pingbase.net}}
+    \item Labomedia à Orléans\footnote{\url{http://labomedia.org/}}
+    \item Ipéfix à Angers
+\end{itemize}
+
+    \subsection{Hackerspace ou Fab Lab ?}
+
+    La différence principale entre un \hs{} et un {\itshape Fab Lab} est que le second est dédié à la fabrication d'objets.
+
+Le projet {\itshape Fab Lab} a été lancé par le MIT autour de cette idée, et la création d'un tel lab est sujette à plusieurs
+soucis :
+
+\begin{itemize}
+    \item besoin d'outils
+    \item besoin de machines particulières
+    \item besoin de compétences sur ces machines
+\end{itemize}
+
+Le \hs{} a l'avantage d'être plus général, mais aussi d'être beaucoup moins contraint par la présence ou non de tels objets en
+(presque) libre service.
+
+    \section{Notre projet}
+
+Après une année d'existence plus ou moins informelle comme sous-groupe de l'association Asimov à l'IUP MIME, nous
+aimerions faire grandir un peu le \hs{} et notament l'ouvrir aux personnes extérieures.
+
+Voilà, en quelques points, l'aspect du projet.
+
+    \subsection{Du matériel, du code, des hackers}
+
+C'est la base d'un bon nombre de \hsss{} à travers le monde.
+
+Les \hsss{} ont une forte {\it "tradition"} \hw, et, alors que certains ont déjà utilisé des plateformes comme
+l'Arduino\footnote{\url{http://arduino.cc}}, nous aimerions continuer à réfléchir autour de systèmes électroniques.
+
+De ce côté, il s'agit de s'approprier l'électronique pour le simple plaisir de la découverte ou bien au sein de projets
+plus importants.
+
+\medskip
+
+Le \hw{} est {\bf le} lien entre un système et le monde réel et c'est une composante primordiale dans les activités d'un
+\hs.
+
+Le code vient ensuite quand il s'agit de bidouiller sur ordinateur ou de faire prendre vie à nos systèmes : on parle
+alors de \sw.
+
+Bien sûr, il peut s'agir de création de programmes complets, de protoypes, mais aussi de modification sur des projets
+{\itshape open-source} ou de contribution à ceux-ci.
+
+L'idée est d'utiliser ce que le logiciel libre nous propose et surtout d'y contribuer.
+
+\medskip
+
+Quand le titre parle de {\it "hackers"}, il s'agit bien évidement des membres du \hs.
+Des personnes cherchant des solutions à des problèmes, voulant créer ou adapter quelque chose et travaillant ensemble
+pour ça.
+
+Un \hs{} n'est pas un lieu inerte et ce sont ses membres qui le font vivre. On retrouve généralement des valeurs fortes
+d'entraide et de travail en équipe.
+
+Pour des étudiants, un \hs, c'est le moyen d'appliquer et d'approfondir ce qu'ils apprennent.
+Pour les autres, c'est un vecteur d'apprentissage et d'expérimentation unique.
+
+    \subsection{Découverte}
+
+    Il est courant qu'un \hs{} organise des évènements en plus de ses "séances". Ça peut être des ateliers ({\it
+workshops}) pour ceux qui veulent apprendre, mais aussi des initiations à certains concepts ou logiciels.
+
+Un \hs, c'est un concentré de connaissances sur différents sujets dont certains reviennent particulièrement :
+
+\begin{itemize}
+    \item les logiciels libres
+    \item GNU/Linux
+    \item certaines astuces DIY\footnote{Do It Yourself : une maxime conseillant aux gens d'essayer de faire les choses
+    eux-mêmes}
+    \item la vie privée dans la technologie
+    \item etc\ldots
+\end{itemize}
+
+L'avant dernier point peut étonner, mais oui, un \hs{} peut aussi permettre aux gens d'apprendre à mieux gérer leur vie
+privée dans notre société technologique moderne. Cela peut prendre tout un tas de formes, mais par exemple, on peut
+discuter de PGP/GPG\footnote{système de signature/chiffrement par clé publique/privée. Notament utile pour les mails},
+de certificats et de communication chiffrée\ldots
+
+    \subsection{Expérimentation}
+
+Un \hs{} permet enfin à ses membres de tester leur idées, d'en discuter. C'est un lieu où l'on peut expérimenter, que l'on
+parle de \sw, de \hw{} ou bien d'idées plus générales, ne traitant pas de technologie. Il n'est pas rares de voir des
+\hsss{} publier des documents traitant d'autre chose que de technologie.
+
+C'est là toute la force d'un \hs{} : en ne se différenciant pas, il permet à ses membres d'explorer un maximum de voies et
+ainsi d'apprendre dans un maximum de sujets.
+
+    \subsection{Et pour le reste ?}
+
+Il y aurait des dixaines de choses à dire sur la notion de \hs{} et ses implications, mais ce n'est pas l'objet (ce serait
+beaucoup trop long).
+
+Je voudrais simplement discuter d'un point plutôt important : comment le \hs{} se lie-t-il au reste du monde ?
+
+L'image typique évoquée par le mot "\hs" représente une {\it "bande de barbu(e)s dans un garage"} seulement, non, le
+\hs{} a aussi une forme d'implication sociale.
+
+Tout d'abord, le sujet de l'OpenData est souvent discuté dans les \hsss, ceux-ci permettent à la population de
+s'approprier plus facilement lesdites données. Si l'on se place du côté des acteurs publiant les données, un \hs,
+c'est un vecteur de commentaires intéressant. Récupérer des données, les traiter et les redistribuer, tout cela fait
+partie du mouvement {\it Datalove} dans lequel nombre de \hsss{} se reconnaissent.
+
+Le deuxième "pont" vers le monde réel apparait sous forme de présentations. Il est intéressant pour un \hs{} d'organiser
+des ateliers ou micro-conférences ouverts au public de façon régulière afin d'avoir une existence propre dans son
+environnement.
+
+Cela permet au \hs{} de se faire connaître et aux gens d'apprendre des choses (soit par la pratique soit au cours d'une
+présentation orale).
+
+    \section{Valeurs}
+
+Il me semble important, pour finir ce document de dresser une liste des valeurs propres aux \hsss{} :
+
+\begin{itemize}
+    \item curiosité/ouverture d'esprit
+    \item liberté individuelle
+    \item partage
+    \item travail/effort
+    \item rigueur
+    \item persévérence
+    \item réflexion
+\end{itemize}
+
+Je vais conclure ainsi cette (courte) présentation du concept de \hs{} et de ce que nous aimerions en faire.
+
+Si vous souhaitez plus de précisions ou simplement en discuter, vous pouvez :
+
+\begin{itemize}
+    \item utiliser la mailing liste provisoire\footnote{\url{https://groups.google.com/forum/#!forum/hs_lemans}}
+    \item rejoindre le canal IRC pour dicuter autour du projet :
+        
+        \#hs\_lemans @ irc.freenode.net\footnote{\url{http://webchat.freenode.net/}}
+    \item me contacter directement par mail à l'adresse \url{mathieu@matael.org}
+\end{itemize}
+
+\end{document}
