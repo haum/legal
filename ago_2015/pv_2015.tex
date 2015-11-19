@@ -6,6 +6,7 @@
     \usepackage{eurosym} %pour le symbole euro
     
     \usepackage{tabularx}
+    \usepackage{soul}
     
     \title{Hackerspace Au Mans}
     \author{Procès-Verbal des Assemblées Générales Ordinaire et Extraordinaire}
@@ -19,7 +20,7 @@
     \fbox{\begin{minipage}[l]{\textwidth}
     	\smallskip
         \begin{center}
-        	\underline{\textsc{Vote}}
+        	\ul{\textsc{Vote}}
         \end{center}
         
         #1\\
@@ -34,9 +35,9 @@
         \medskip
     }
     
-    \newcommand\question[1]{\textit{\textsc{$\bullet$ #1}} : }
+    \newcommand\question[2]{\noindent\ul{\textit{\textsc{$\bullet$ #1}}}\\#2\\}
     
-    %\underline{#2}}
+    %\ul{#2}}
     
     
 \begin{document}
@@ -69,7 +70,7 @@ Le HAUM remercie la Ruche Numérique pour le prêt de la salle pour cette réuni
 		  \item DUTHE Yannick
 		  \item PERRIER Bertrand 
 		  \item ROUSSEAU Fabien \textsuperscript{2}
-		  \item ??? Gabriel \textsuperscript{2}
+		  \item BELLEC Gabriel \textsuperscript{2}
 		  \item GABORIT Matthieu \textsuperscript{2}
 		  \item LEFRANCOIS Jean-Marc \textsuperscript{1} \textsuperscript{2}
 		\end{itemize}
@@ -111,8 +112,8 @@ Le rapport moral (cf annexe) est présenté par le président.
 
 Le rapport moral est validé par l'assemblée.
 
-\question{Remarque sur le rapport moral} : 
-Les projets peuvent être gérés \textit{via} un "Framaboard". Dans tous les cas, ça ne doit pas remplacer les rapports de séance jugés utiles pour la communication et l'archivage.
+\question{Remarque sur le rapport moral}{Les projets peuvent être gérés
+\textit{via} un "Framaboard". Dans tous les cas, ça ne doit pas remplacer les rapports de séance jugés utiles pour la communication et l'archivage.}
 
 \section{Rapport Financier}
 
@@ -124,21 +125,26 @@ Le rapport financier est validé par l'assemblée.
 
 Voici le détail du coût approximatif de chaque projet :
 \begin{itemize}
-	\item Dhaum : 150\euro pour la structure et 50\euro pour sa boîte de rangement
-	\item Pong1D : 75\euro
-	\item PCBlastifieuse : 50\euro et 20\euro pour les produits chimiques consommables.
+	\item Dhaum : 150\euro{} pour la structure et 50\euro{} pour sa boîte de rangement
+	\item Pong1D : 75\euro{}
+	\item PCBlastifieuse : 50\euro{} et 20\euro{} pour les produits chimiques consommables.
 \end{itemize}
 
 
 
 
 \subsection{Question et remarques sur le rapport financier}
-
-	\question{Présence au "village de Makers qui sera monté lors de la Gamer Assembly organisée à Poitiers du 25 au 27 mars 2016" ?} L'avis général est d'y participer. Il est évoqué l'idée de demander une contrepartie financière, sous forme d'une aide à l'hébergement et au transport par exemple.\\
-	\question{Peut-on utiliser Paypal pour simplifier les factures ?} La trésorière répond que les factures papier sont simples à mettre en oeuvre, et rappelle qu'il faut juste que "HAUM" apparaisse dessus.\\
-	\question{Consulte-t-on les membres au sujet du financement de chaque projet par la trésorerie du HAUM ?} Les discussions au cours des séances suffisent pour l'instant à dégager un consensus général sur le financement ou non de chaque projet.\\
-	\question{Rachète-t-on une imprimante 3D ?} Ça semble utile pour la communication et attirer de nouveaux membres, mais c'est hors budget. Une solution est de remonter la Tobecca qui n'est plus fonctionnelle.\\
-	\question{Où peut-on avoir accès aux détails des finances ?} Sur demande à tout moment auprès de la trésorière.
+	\question{Présence au "village de Makers qui sera monté lors de la Gamer
+	Assembly organisée à Poitiers du 25 au 27 mars 2016" ?}{L'avis général est d'y participer. Il est évoqué l'idée de demander une contrepartie financière, sous forme d'une aide à l'hébergement et au transport par exemple.}
+	\question{Peut-on utiliser Paypal pour simplifier les factures ?}{La trésorière
+	répond que les factures papier sont simples à mettre en oeuvre, et rappelle qu'il faut juste que "HAUM" apparaisse dessus.}
+	\question{Consulte-t-on les membres au sujet du financement de chaque projet par la trésorerie du HAUM ?}
+	{Les discussions au cours des séances suffisent pour l'instant à dégager un
+	consensus général sur le financement ou non de chaque projet.}
+	\question{Rachète-t-on une imprimante 3D ?}{Ça semble utile pour la
+	communication et attirer de nouveaux membres, mais c'est hors budget. Une solution est de remonter la Tobecca qui n'est plus fonctionnelle.}
+	\question{Où peut-on avoir accès aux détails des finances ?}{Sur demande à tout
+	moment auprès de la trésorière.}
 	
 
 
@@ -153,28 +159,38 @@ Il est proposé d'augmenter la cotisation pour augmenter le budget alloué aux p
 \fbox{\begin{minipage}{\textwidth}
     		\smallskip
        		\begin{center}
-        		\underline{\textsc{Vote}}\\
+        		\ul{\textsc{Vote}}\\
         		Vote pour le montant de la cotisation 
       	 	\end{center}
         
        		\begin{tabularx}{2\textwidth}{c c c c c c }
-25\euro & 30\euro & 35\euro & 40\euro & \textbf{NSPP} & \textbf{Contre}\\
+25\euro{} & 30\euro{} & 35\euro{} & 40\euro{} & \textbf{NSPP} & \textbf{Contre}\\
  8 & 13 & 0 & 2 & 3 & 0\\
             %\smallskip        
     		\end{tabularx}
 \end{minipage}}
-~\\ La cotisation est donc montée à 30\euro.
+~\\ La cotisation sera donc de 30\euro{} pour l'année 2016.
 
 
 \section{Questions diverses}
 
-\question{Peut-on avoir accès au local en dehors du mardi ?} Oui, à condition de l'organiser \textit{via} la liste de diffusion mail.\\
-\question{Que fait-on aux 24h du Code 2016 ?} Personne ne souhaite proposer une équipe concourante. Le HAUM proposera éventuellement un sujet autour de la lumière si ça lui est demandé rapidement.\\
-\question{Refait-on une GlobalGameJam ? Sera-t-elle publique ?} La GGJ sera organisée au Mans, avec ouverture à quelques invités dans la limite d'une quinzaine de personnes.\\
-\question{Meubles en cartons : Que fait-on du fauteuil qui est volumineux ? Que fait-on des chutes de carton (volumineuses) ?} Les chutes sont à recycler. Le fauteuil reste monté au local.\\
-\question{Matthieu G. dit qu'il serait bon de demander des subventions/financements auprès de la ville, département,... pour les projets à venir.} Il se dit prêt à aider ponctuellement à cette tâche.\\
-\question{Mathieu G. rappelle que des cartons "free to hack" sont toujours libres d'accès.}\\
-\question{Refait-on une galette des rois ?} Non, c'est trop banal et ça n'attire personne. Un autre événement sera organisé pour présenter les projets de l'association autour d'un goûter, avec invitation des partenaires, fin février.\\
+\question{Peut-on avoir accès au local en dehors du mardi ?}{Oui, à condition de
+l'organiser \textit{via} la liste de diffusion mail.}
+\question{Que fait-on aux 24h du Code 2016 ?}{Personne ne souhaite proposer une équipe concourante. Le HAUM proposera
+éventuellement un sujet autour de la lumière si ça lui est demandé rapidement.}
+\question{Refait-on une GlobalGameJam ? Sera-t-elle publique ?}{La GGJ sera
+organisée au Mans, avec ouverture à quelques invités dans la limite d'une quinzaine de personnes.}
+\question{Meubles en cartons : Que fait-on du fauteuil qui est volumineux ? Que
+fait-on des chutes de carton (volumineuses) ?}{Les chutes sont à recycler. Le
+fauteuil reste monté au local.}
+\question{Matthieu G. dit qu'il serait bon de demander des
+subventions/financements auprès de la ville, département,... pour les projets
+à venir.}{Il se dit prêt à aider ponctuellement à cette tâche.}
+\question{Mathieu G. rappelle que des cartons "free to hack" sont toujours libres d'accès.}{Il ne faut surtout pas hésiter à se servir dedans pour recuperer des composants
+ou plus.}
+\question{Refait-on une galette des rois ?}{Non, c'est trop banal et ça
+n'attire personne. Un autre événement sera organisé pour présenter les projets
+de l'association autour d'un goûter, avec invitation des partenaires, fin février.}
 
 
 
@@ -183,27 +199,27 @@ Il est proposé d'augmenter la cotisation pour augmenter le budget alloué aux p
 Se présentent à l'élection au bureau :
 
 \begin{itemize}
-  \item R. CONTY
-  \item M. GABORIT
-  \item S. VALLÉE
-  \item J. BRÉHERET
-  \item A. CUDENNEC
-  \item M. GABORIT
-  \item F. TOUCHARD
-  \item L. VANNIER
-  \item F. ROUSSEAU
+  \item Romuald CONTY
+  \item Mathieu GABORIT
+  \item Sébastien VALLÉE
+  \item Jérôme BRÉHERET
+  \item Armelle CUDENNEC
+  \item Matthieu GABORIT
+  \item Florent TOUCHARD
+  \item Laurent VANNIER
+  \item Fabien ROUSSEAU
 \end{itemize}
 
 Pour ce vote, le collège électoral est réduit au membres seuls (soient 24 votants).\\
    \hspace{-1cm} \fbox{\begin{minipage}{1.06\textwidth}
     		\smallskip
        		\begin{center}
-        		\underline{\textsc{Vote}}\\
+        		\ul{\textsc{Vote}}\\
         		Élection au bureau de 
       	 	\end{center}
         
        		\begin{tabularx}{2\textwidth}{p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} }
-\small \textsc{Bréheret} J.& \small \textsc{Rousseau} F.& \small \textsc{Conty} R. &\small \textsc{Vallée} S.&\small \textsc{Cudennec} A.&\small  \textsc{Gaborit} M.&\small \textsc{Gaborit} M. & \small \textsc{Touchard} F. & \small \textsc{Vannier} L.\\     		            \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &\small \textbf{Votants} 24& \small \textbf{Votants} 24& \small \textbf{Votants} 24 &\small \textbf{Votants} 24 & \small \textbf{Votants} 24 & \small \textbf{Votants} 24 \\
+\small \textsc{Bréheret} Jérôme& \small \textsc{Rousseau} Fabien& \small \textsc{Conty} Romuald &\small \textsc{Vallée} Sébastien&\small \textsc{Cudennec} Armelle&\small  \textsc{Gaborit} Matthieu&\small \textsc{Gaborit} Mathieu & \small \textsc{Touchard} Florent & \small \textsc{Vannier} Laurent\\     		            \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &\small \textbf{Votants} 24& \small \textbf{Votants} 24& \small \textbf{Votants} 24 &\small \textbf{Votants} 24 & \small \textbf{Votants} 24 & \small \textbf{Votants} 24 \\
        		 	\textbf{Pour} 24 & \textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24 & \textbf{Pour} 24 & \textbf{Pour} 24\\
         		\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0 & \textbf{Contre} 0 & \textbf{Contre} 0\\
         		\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0 & \textbf{NSPP} 0 & \textbf{NSPP} 0 \\
@@ -223,32 +239,29 @@ Pour ce vote, le collège électoral est réduit au membres seuls (soient 24 vot
 
 Alors que l'ensemble des membres du nouveau bureau sont présents, il est décidé de procéder dans l'immédiat aux élections internes à celui-ci. Pour les votes suivants, le collège électoral est réduit au bureau seul (soient 9 membres).
 
-\vote{S. VALLÉE au poste de secrétaire}{9}{9}{0}{0}
+\vote{Romuald CONTY au poste de président}{9}{9}{0}{0}
+\vote{Mathieu GABORIT au poste de vice-président}{9}{9}{0}{0}
+\vote{Jérôme BRÉHERET au poste de vice-président}{9}{9}{0}{0}
 
-\vote{A. CUDENNEC au poste de trésorière}{9}{9}{0}{0}
+\vote{Armelle CUDENNEC au poste de trésorière}{9}{9}{0}{0}
+\vote{Laurent VANNIER au poste de vice-trésorier}{9}{9}{0}{0}
+\vote{Matthieu GABORIT au poste de vice-trésorier}{9}{9}{0}{0}
 
-
-
-\vote{R. CONTY au poste de président}{9}{9}{0}{0}
-\vote{M. GABORIT au poste de vice-président}{9}{9}{0}{0}
-\vote{J. BRÉHERET au poste de vice-président}{9}{9}{0}{0}
-
-\vote{L. VANNIER au poste de vice-trésorier}{9}{9}{0}{0}
-\vote{M. GABORIT au poste de vice-trésorier}{9}{9}{0}{0}
+\vote{Sébastien VALLÉE au poste de secrétaire}{9}{9}{0}{0}
 
 \section{Composition du bureau}
 \begin{description}
-  \item[Président] R. CONTY
-  \item[Vice-Président] M. GABORIT
-  \item[Vice-Président]J. BRÉHERET
+  \item[Président] Romuald CONTY
+  \item[Vice-Président] Mathieu GABORIT
+  \item[Vice-Président]Jérôme BRÉHERET
   \item[Trésorière] Armelle CUDENNEC
-  \item[Vice-Trésorier]L. VANNIER
-  \item[Vice-Trésorier]M. GABORIT
-  \item[Secrétaire] S. VALLÉE
+  \item[Vice-Trésorier]Laurent VANNIER
+  \item[Vice-Trésorier]Matthieu GABORIT
+  \item[Secrétaire] Sébastien VALLÉE
   \item[Membres du bureau] \hfill
   	\begin{itemize}
-        \item F. TOUCHARD
-        \item F. ROUSSEAU
+        \item Florent TOUCHARD
+        \item Fabien ROUSSEAU
     \end{itemize}
 \end{description}
 \bigskip
@@ -277,13 +290,13 @@ Président :
 \subsection{Bilan}
 
 On a coutume de dire que la première année est un test, la deuxième l'épreuve réelle et la troisième le début de l'age
-d'or.... Si le HAUM continue sur sa lancée, cet adage pourrait se vérifier.
+d'or... Si le HAUM continue sur sa lancée, cet adage pourrait se vérifier.
 
 Cette troisième année d'exercice a été éprouvante pour l'association mais cela semble porter ses fruits et les résultats
 commencent à apparaître.
 
 En 2015, le HAUM est passé de 23 à plus de 30 adhésions. Le nombre de personnes régulièrement actives dans la vie de l'asso
-et ses projets a lui aussi augmenté pour passer à près d'une quinzaine de membres.
+et ses projets a, lui aussi, augmenté pour passer à près d'une quinzaine de membres.
 
 Au cours des derniers mois, de nombreux projets ont vu le jour, qu'ils soient artistiques, ludiques, musicaux,
 techniques... nous y reviendrons dans la section~\ref{ssec:projects} de ce rapport.
@@ -433,7 +446,7 @@ souvent la charge de quelques membres.
 Plusieurs possibilités s'offrent alors :
 
 \begin{description}
-	\item[Augmentation de la cotisation] A 20\euro/an, la cotisation du HAUM reste encore une des plus faible en France. La
+	\item[Augmentation de la cotisation] A 20\euro{}/an, la cotisation du HAUM reste encore une des plus faible en France. La
 		possibilité d'augmenter la cotisation n'est pas à écarter.
 	\item[Double cotisation] Certains mettent en place une double cotisation, la première permettant d'accèder au
 		hackerspace dans le cadre de certains temps bien définis et la seconde permettant d'accèder au lieu sur des
