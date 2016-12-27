@@ -7,6 +7,9 @@
 
     \usepackage{tabularx}
     \usepackage{soul}
+		\usepackage{enumitem}
+
+		\usepackage{pdfpages}
 
     \title{Hackerspace Au Mans}
     \author{Procès-Verbal des Assemblées Générales Ordinaire et Extraordinaire}
@@ -46,7 +49,7 @@
 
 \section*{Préambule}
 
-Le HAUM remercie la Ruche Numérique pour le prêt de la salle pour cette réunion.
+Le HAUM remercie \emph{la Ruche Numérique} pour le prêt de la salle pour cette réunion.
 
 \section{Effectifs}
 
@@ -99,117 +102,134 @@ Le HAUM remercie la Ruche Numérique pour le prêt de la salle pour cette réuni
 \end{itemize}
 
 \bigskip
+
+\section{Assemblée générale extraordinaire}
 \textbf{La séance est ouverte à 19h30}
 
-%%La présidence actuelle décide d'accorder le droit de vote à tous les présents pour la durée de cette AG.
+Cette assemblée générale extraordinaire a pour but d'ajouter la mention
+\emph{prestations de services} à l'article 5 des statuts (Ressources) pour refleter
+au mieux nos ressources.
 
-\section{Rapport Moral}
+\vote{Ajout de la mention manquante au statuts}{23}{23}{0}{0}
+
+\textbf{La séance est levée à 19h32}
+
+%%La présidence actuelle décide d'accorder le droit de vote à tous les présents pour la durée de cette AG.
+\setlist{nosep,after=\vspace{\bigskipamount}}
+
+\section{Assemblée générale ordinaire}
+\textbf{La séance est ouverte à 19h32}
+\subsection{Rapport Moral}
 
 Le rapport moral (cf annexe) est présenté par le président.
 
-\vote{Rapport moral}{21}{21}{0}{0}
+\vote{Rapport moral}{23}{23}{0}{0}
 
 Le rapport moral est validé par l'assemblée.
 
-\question{Remarque sur le rapport moral}{Les projets peuvent être gérés
-\textit{via} un "Framaboard". Dans tous les cas, ça ne doit pas remplacer les rapports de séance jugés utiles pour la communication et l'archivage.}
+\subsubsection{Questions et remarques à propos du rapport moral}
 
-\section{Rapport Financier}
+Au niveau des partenariats, on peut ajouter à ceux présents dans le rapport moral,
+sans être exhaustifs :
+\begin{itemize}
+	\item L'IMIE
+	\item ST Microelectronics
+	\item AgileMans
+\end{itemize}
+
+De même, concernant les évènements auxquels nous avons pu prendre part, on peut
+ajouter :
+\begin{itemize}
+	\item La Global Game Jam
+	\item AgileMans
+	\item Bienvenus sur Mars
+	\item La Gamers Assembly
+\end{itemize}
+
+Et pour les projets menés, des ateliers \og{Confection \& nouvelles
+technologies}\fg{} ont été menés grâce à Tifenn et à AniBlue. Il a été décidé
+de ne pas donner suite à ces ateliers.
+\newpage{}
+\question{Quelle sont nos obligations en vue du prochain local, ainsi que
+pour le déménagement ?}{"Les conditions d'accès au nouveau local et à la suite
+de la CICO sont les mêmes qu'aujourd'hui. Notre implication dans la CICO n'est
+donc soumis à aucun engagement sinon celui moral de déménager à la proposition
+d'un nouveau local. L'engagement du HAUM est donc la somme des engagements de ses
+membres dans le projet."}
+
+Il est à noter que \og{}La non fiabilité des informations entendues ne
+permettait pas de transférer de vraies informations aux membres du HAUM lors
+des discussions autour de ce projet.\fg{}
+
+De même, \og{}Les informations "de couloir" ne sont pas relayées, seules les
+informations récupérées dans un cadre officiel sont avérées.\fg{}
+
+\question{Est il pertinent de lancer des sessions de formation ?}{Non, on va
+préférer une approche moins typée FabLab et plus HackerSpace avec des \og{petites}\fg{}
+formations pour mieux cibler les besoins et les personnes.}
+
+\subsection{Rapport Financier}
 
 Le trésorier présente le rapport financier (cf annexe).
 
-\vote{Rapport Financier (après 20h)}{26}{26}{0}{0}
+\vote{Rapport Financier}{23}{23}{0}{0}
 
 Le rapport financier est validé par l'assemblée.
 
-Voici le détail du coût approximatif de chaque projet :
-\begin{itemize}
-	\item Dhaum : 150\euro{} pour la structure et 50\euro{} pour sa boîte de rangement
-	\item Pong1D : 75\euro{}
-	\item PCBlastifieuse : 50\euro{} et 20\euro{} pour les produits chimiques consommables.
-\end{itemize}
+\subsubsection{Question et remarques sur le rapport financier}
 
+On note quelques prestations rétribuées (Gamers Assembly, Teriaki, Bienvenus
+sur Mars), ce qui contribue à la très bonne santé des comptes cette année.
+La vente de T-Shirt permet, elle aussi, de rapporter un peu d'argent.
 
-
-
-\subsection{Question et remarques sur le rapport financier}
-	\question{Présence au "village de Makers qui sera monté lors de la Gamer
-	Assembly organisée à Poitiers du 25 au 27 mars 2016" ?}{L'avis général est d'y participer. Il est évoqué l'idée de demander une contrepartie financière, sous forme d'une aide à l'hébergement et au transport par exemple.}
-	\question{Peut-on utiliser Paypal pour simplifier les factures ?}{La trésorière
-	répond que les factures papier sont simples à mettre en oeuvre, et rappelle qu'il faut juste que "HAUM" apparaisse dessus.}
-	\question{Consulte-t-on les membres au sujet du financement de chaque projet par la trésorerie du HAUM ?}
-	{Les discussions au cours des séances suffisent pour l'instant à dégager un
-	consensus général sur le financement ou non de chaque projet.}
-	\question{Rachète-t-on une imprimante 3D ?}{Ça semble utile pour la
-	communication et attirer de nouveaux membres, mais c'est hors budget. Une solution est de remonter la Tobecca qui n'est plus fonctionnelle.}
-	\question{Où peut-on avoir accès aux détails des finances ?}{Sur demande à tout
-	moment auprès de la trésorière.}
-
-
+Une enveloppe budgétaire est prévue pour avoir une connexion Internet au local,
+ainsi que pour proposer une collation aux différents évènements proposés par le
+HAUM.
 
 %====================================================================================
 
+\subsection{Cotisation}
 
+Il est proposé de laisser la cotisation à 30\euro{} pour l'année 2017.
 
-\section{Cotisation}
+\vote{Cotisation à 30\euro{} pour l'année 2017}{23}{23}{0}{0}
 
-Il est proposé d'augmenter la cotisation pour augmenter le budget alloué aux projets et à l'achat de matériel.
+La cotisation sera donc de 30\euro{} pour l'année 2017.
 
-\fbox{\begin{minipage}{\textwidth}
-    		\smallskip
-       		\begin{center}
-        		\ul{\textsc{Vote}}\\
-        		Vote pour le montant de la cotisation
-      	 	\end{center}
+\subsection{Questions diverses}
 
-       		\begin{tabularx}{2\textwidth}{c c c c c c }
-25\euro{} & 30\euro{} & 35\euro{} & 40\euro{} & \textbf{NSPP} & \textbf{Contre}\\
- 8 & 13 & 0 & 2 & 3 & 0\\
-            %\smallskip
-    		\end{tabularx}
-\end{minipage}}
-~\\ La cotisation sera donc de 30\euro{} pour l'année 2016.
+\question{Serait il possible d'organiser des réunions de bureau régulières
+(mensuelles, idéalement), avec les actifs de l'association ?}{Oui, la date de
+la première réunion est fixée au deuxième mercredi de chaque mois, à 21H.}
+\question{Doit on continuer l'écriture des résumés de séance ?}{Cette façon de
+procéder ne fonctionne pas. Les réunions mensuelles évoquées précédement
+devraient combler ce besoin. Il est aussi proposer de mettre en place un
+\og{index des projets}\fg{} pour avoir une meilleure visibilité sur l'avancée des
+projets en cours.}
+\question{Doit on garder la do-ocracy ?}{Oui, évidement, mais sans aller jusqu'à
+l'extrémisme (Article 11 des statuts de l'association : L'association fonctionne
+par consensus.)}
 
-
-\section{Questions diverses}
-
-\question{Peut-on avoir accès au local en dehors du mardi ?}{Oui, à condition de
-l'organiser \textit{via} la liste de diffusion mail.}
-\question{Que fait-on aux 24h du Code 2016 ?}{Personne ne souhaite proposer une équipe concourante. Le HAUM proposera
-éventuellement un sujet autour de la lumière si ça lui est demandé rapidement.}
-\question{Refait-on une GlobalGameJam ? Sera-t-elle publique ?}{La GGJ sera
-organisée au Mans, avec ouverture à quelques invités dans la limite d'une quinzaine de personnes.}
-\question{Meubles en cartons : Que fait-on du fauteuil qui est volumineux ? Que
-fait-on des chutes de carton (volumineuses) ?}{Les chutes sont à recycler. Le
-fauteuil reste monté au local.}
-\question{Matthieu G. dit qu'il serait bon de demander des
-subventions/financements auprès de la ville, département,... pour les projets
-à venir.}{Il se dit prêt à aider ponctuellement à cette tâche.}
-\question{Mathieu G. rappelle que des cartons "free to hack" sont toujours libres d'accès.}{Il ne faut surtout pas hésiter à se servir dedans pour recuperer des composants
-ou plus.}
-\question{Refait-on une galette des rois ?}{Non, c'est trop banal et ça
-n'attire personne. Un autre événement sera organisé pour présenter les projets
-de l'association autour d'un goûter, avec invitation des partenaires, fin février.}
-
-
-
-\section{Election du bureau}
+\subsection{Election du bureau}
 
 Se présentent à l'élection au bureau :
 
 \begin{itemize}
-  \item Romuald CONTY
-  \item Mathieu GABORIT
-  \item Sébastien VALLÉE
-  \item Jérôme BRÉHERET
-  \item Armelle CUDENNEC
-  \item Matthieu GABORIT
-  \item Florent TOUCHARD
-  \item Laurent VANNIER
-  \item Fabien ROUSSEAU
+  \item GABORIT-LEBREQUER Matthieu
+	\item GABORIT Mathieu
+	\item BRETON Corentin
+	\item BREHERET Jérôme
+	\item LEFRANCOIS Jean-Marc
+	\item CONTY Romuald
+	\item PORTE Romain
+	\item BEN-ICHE Mehdi
+	\item VANNIER Laurent
+	\item FAVREAU Tifenn
+	\item BLAIN Fred
+	\item VALLÉE Sébastien
 \end{itemize}
 
-Pour ce vote, le collège électoral est réduit au membres seuls (soient 24 votants).\\
+\\
    \hspace{-1cm} \fbox{\begin{minipage}{1.06\textwidth}
     		\smallskip
        		\begin{center}
@@ -217,12 +237,43 @@ Pour ce vote, le collège électoral est réduit au membres seuls (soient 24 vot
         		Élection au bureau de
       	 	\end{center}
 
-       		\begin{tabularx}{2\textwidth}{p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} | p{1.6cm} }
-\small \textsc{Bréheret} Jérôme& \small \textsc{Rousseau} Fabien& \small \textsc{Conty} Romuald &\small \textsc{Vallée} Sébastien&\small \textsc{Cudennec} Armelle&\small  \textsc{Gaborit} Matthieu&\small \textsc{Gaborit} Mathieu & \small \textsc{Touchard} Florent & \small \textsc{Vannier} Laurent\\     		            \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &  \small \textbf{Votants} 24 &\small \textbf{Votants} 24& \small \textbf{Votants} 24& \small \textbf{Votants} 24 &\small \textbf{Votants} 24 & \small \textbf{Votants} 24 & \small \textbf{Votants} 24 \\
-       		 	\textbf{Pour} 24 & \textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24&\textbf{Pour} 24 & \textbf{Pour} 24 & \textbf{Pour} 24\\
-        		\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0&\textbf{Contre} 0 & \textbf{Contre} 0 & \textbf{Contre} 0\\
-        		\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0&\textbf{NSPP} 0 & \textbf{NSPP} 0 & \textbf{NSPP} 0 \\
-            %\smallskip
+       		\begin{tabularx}{2\textwidth}{p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} }
+						\small \textsc{\mbox{GABORIT}-\mbox{LEBREQUER}} Matthieu &
+						\small \textsc{GABORIT} \mbox{Mathieu} &
+						\small \textsc{BRETON} \mbox{Corentin} &
+						\small \textsc{BRÉHÉRET} \mbox{Jérôme} &
+						\small \textsc{LEFRANÇOIS} \mbox{Jean-Marc} &
+						\small \textsc{CONTY} \mbox{Romuald}
+						\\
+						\small \textbf{Votants} 24 &
+						\small \textbf{Votants} 24 &
+						\small \textbf{Votants} 24 &
+						\small \textbf{Votants} 24 &
+						\small \textbf{Votants} 24 &
+						\small \textbf{Votants} 24
+						\\
+       		 	\textbf{Pour} 24 &
+						\textbf{Pour} 24 &
+						\textbf{Pour} 24 &
+						\textbf{Pour} 24 &
+						\textbf{Pour} 24 &
+						\textbf{Pour} 24
+						\\
+        		\textbf{Contre} 0 &
+						\textbf{Contre} 0 &
+						\textbf{Contre} 0 &
+						\textbf{Contre} 0 &
+						\textbf{Contre} 0 &
+						\textbf{Contre} 0
+						\\
+						\textbf{NSPP} 0 &
+						\textbf{NSPP} 0 &
+						\textbf{NSPP} 0 &
+						\textbf{NSPP} 0 &
+						\textbf{NSPP} 0 &
+						\textbf{NSPP} 0
+						\\
+            \smallskip
     		\end{tabularx}
 
 
@@ -233,38 +284,107 @@ Pour ce vote, le collège électoral est réduit au membres seuls (soient 24 vot
     }
         \medskip
 
+				\\
+				\hspace{-1cm} \fbox{\begin{minipage}{1.06\textwidth}
+		     		\smallskip
+		        		\begin{center}
+		         		\ul{\textsc{Vote}}\\
+		         		Élection au bureau de
+		       	 	\end{center}
+
+		        		\begin{tabularx}{2\textwidth}{p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} | p{2.6cm} }
+		 						\small \textsc{PORTE} \mbox{Romain} &
+		 						\small \textsc{BEN-ICHE} \mbox{Mehdi} &
+		 						\small \textsc{VANNIER} \mbox{Laurent} &
+		 						\small \textsc{FAVREAU} \mbox{Tifenn} &
+		 						\small \textsc{BLAIN} \mbox{Fred} &
+		 						\small \textsc{VALLÉE} \mbox{Sébastien}
+		 						\\
+		 						\small \textbf{Votants} 24 &
+		 						\small \textbf{Votants} 24 &
+		 						\small \textbf{Votants} 24 &
+		 						\small \textbf{Votants} 24 &
+		 						\small \textbf{Votants} 24 &
+		 						\small \textbf{Votants} 24
+		 						\\
+		        		\textbf{Pour} 24 &
+		 						\textbf{Pour} 24 &
+		 						\textbf{Pour} 24 &
+		 						\textbf{Pour} 24 &
+		 						\textbf{Pour} 24 &
+		 						\textbf{Pour} 24
+		 						\\
+		         		\textbf{Contre} 0 &
+		 						\textbf{Contre} 0 &
+		 						\textbf{Contre} 0 &
+		 						\textbf{Contre} 0 &
+		 						\textbf{Contre} 0 &
+		 						\textbf{Contre} 0
+		 						\\
+		 						\textbf{NSPP} 0 &
+		 						\textbf{NSPP} 0 &
+		 						\textbf{NSPP} 0 &
+		 						\textbf{NSPP} 0 &
+		 						\textbf{NSPP} 0 &
+		 						\textbf{NSPP} 0
+		 						\\
+		             \smallskip
+		     		\end{tabularx}
+
+
+
+
+		     \end{minipage}
+
+		     }
+		         \medskip
+
+\textbf{La séance est levée à 21h46}
 
 \section{Réunion de bureau}
 
 Alors que l'ensemble des membres du nouveau bureau sont présents, il est décidé de procéder dans l'immédiat aux élections internes à celui-ci. Pour les votes suivants, le collège électoral est réduit au bureau seul (soient 9 membres).
 
-\vote{Romuald CONTY au poste de président}{9}{9}{0}{0}
-\vote{Mathieu GABORIT au poste de vice-président}{9}{9}{0}{0}
-\vote{Jérôme BRÉHERET au poste de vice-président}{9}{9}{0}{0}
+\vote{Romuald CONTY au poste de président}{12}{12}{0}{0}
+\vote{Mathieu GABORIT au poste de vice-président}{12}{12}{0}{0}
+\vote{Jérôme BRÉHERET au poste de vice-président}{12}{12}{0}{0}
+\vote{Sébastien VALLÉE au poste de vice-président}{12}{12}{0}{0}
+\vote{Fred BLAIN au poste de vice-président et chargé de communication}{12}{12}{0}{0}
 
-\vote{Armelle CUDENNEC au poste de trésorière}{9}{9}{0}{0}
-\vote{Laurent VANNIER au poste de vice-trésorier}{9}{9}{0}{0}
-\vote{Matthieu GABORIT au poste de vice-trésorier}{9}{9}{0}{0}
+\vote{Tifenn FAVREAU au poste de trésorière}{12}{12}{0}{0}
+\vote{Matthieu GABORIT au poste de vice-trésorier}{12}{12}{0}{0}
 
-\vote{Sébastien VALLÉE au poste de secrétaire}{9}{9}{0}{0}
+\vote{Jean-Marc LEFRANÇOIS au poste de secrétaire}{12}{12}{0}{0}
+\vote{Laurent VANNIER au poste de vice-secrétaire}{12}{12}{0}{0}
+
+\vote{Romain PORTE au poste de chargé de communication}{12}{12}{0}{0}
+\vote{Mehdi BEN-ICHE au poste de chargé de communication}{12}{12}{0}{0}
+
+\vote{Corentin BRETON au poste de chargé de gestion de projet}{12}{12}{0}{0}
 
 \section{Composition du bureau}
 \begin{description}
   \item[Président] Romuald CONTY
-  \item[Vice-Président] Mathieu GABORIT
-  \item[Vice-Président]Jérôme BRÉHERET
-  \item[Trésorière] Armelle CUDENNEC
-  \item[Vice-Trésorier]Laurent VANNIER
-  \item[Vice-Trésorier]Matthieu GABORIT
-  \item[Secrétaire] Sébastien VALLÉE
+  \item[Vice-Président] \hfill
+  	\begin{itemize}
+        \item Mathieu GABORIT
+  			\item Jérôme BRÉHERET
+				\item Sébastien VALLÉE
+				\item Fred BLAIN
+			\end{itemize}
+  \item[Trésorière] Tifenn FAVREAU
+  \item[Vice-Trésorier] Matthieu GABORIT
+  \item[Secrétaire] Jean-Marc LEFRANÇOIS
+	\item[Vice-Secrétaire] Laurent VANNIER
   \item[Membres du bureau] \hfill
   	\begin{itemize}
-        \item Florent TOUCHARD
-        \item Fabien ROUSSEAU
+        \item Corentin BRETON
+        \item Romain PORTE
+				\item Mehdi BEN-ICHE
     \end{itemize}
 \end{description}
 \bigskip
-\textbf{La séance est levée à 21h.}
+\textbf{La séance est levée à 22h.}
 
 \bigskip\bigskip
 
@@ -282,198 +402,106 @@ Président :
 
 \newpage
 
-\section*{\textsc{Annexe : Rapports moral et financier}}
 \section{Rapport Moral}
-
 
 \subsection{Bilan}
 
-On a coutume de dire que la première année est un test, la deuxième l'épreuve réelle et la troisième le début de l'age
-d'or... Si le HAUM continue sur sa lancée, cet adage pourrait se vérifier.
+Cette année a été riche en changements et en actions menées pour et par l'association.
 
-Cette troisième année d'exercice a été éprouvante pour l'association mais cela semble porter ses fruits et les résultats
-commencent à apparaître.
+\subsubsection{Changement de local}
 
-En 2015, le HAUM est passé de 23 à plus de 30 adhésions. Le nombre de personnes régulièrement actives dans la vie de l'asso
-et ses projets a, lui aussi, augmenté pour passer à près d'une quinzaine de membres.
+Après près de 2 ans dans nos anciens locaux au sein de la pépinière de la Ruche Numérique, le HAUM commençait à se sentir à l'étroit. Pour que les séances se déroulent dans les meilleures conditions de confort et de sécurité, il était temps de changer de local.
 
-Au cours des derniers mois, de nombreux projets ont vu le jour, qu'ils soient artistiques, ludiques, musicaux,
-techniques... nous y reviendrons dans la section~\ref{ssec:projects} de ce rapport.
+Cette envie a pu se concrétiser grâce au concours de Le Mans Développement, agence de développement économique de la métropole, qui a mis a notre disposition un local 2 fois et demi plus grand (passant donc de 29m\textsuperscript{2} à plus de 70m\textsuperscript{2}). Le Mans Développement a également réalisé les travaux nécessaires à l'installation de l'association et nous a mis en relation avec les services techniques de la ville du Mans pour que nous puissions récupérer du mobilier mis au rebut et ainsi meubler le lieu.
 
-A travers ces nouveaux projets, les dons, et les efforts de tous, le HAUM s'équipe peu à peu :
+L'établi du HAUM est toujours mis à sa disposition par la Ruche Numérique malgré notre départ de leurs locaux.
 
-\begin{itemize}
-	\item Un prêt de long terme de la part de Romuald C. a permis de disposer d'un poste à souder de bonne qualité et
-		d'une broche pour la fraiseuse. Cela s'ajoute à la longue liste de matériel qu'il a prêté et donné ces dernières
-		années. Merci à lui ! L'achat d'un ou plusieurs station de soudage est en discussion.
-	\item Un excellent investissement de Romain P., Florent T., Romuald C. a mené à la mise en service d'une plastifieuse
-		capable de transfèrer du toner et donc de réaliser des circuits imprimés en interne. Merci à eux !
-	\item Les dons des uns et des autres a permis au HAUM de se munir d'une scie à chantourner, d'un pistolet à colle et
-		de petit outillage.
-	\item Les dons de matériel portent aussi sur l'infrastructure serveur et réseau. Grâce à Romuald C., LinuxMaine,
-		Florent T., Jérôme B., Sébastien V. et Mathieu G. il est désormais possible d'écouter de la musique jouée depuis un
-		RaspberryPi sur une chaine au local, chacun peut rajouter des musiques sur le disque dur donné par Laurent
-		V.. Il est aussi possible de remonter jusqu'au serveur du HAUM sur lequel est hébergé le wiki et bientôt le
-		reste de l'infrastructure web. Merci à tout ceux qui se sont impliqués dans la mise en place du réseau et merci
-		à Augustin de Laveaucoupet (ATC-IT) de nous laisser utiliser sa connexion en point d'entrée/sortie.
-\end{itemize}
+Le bureau tient à remercier tous les acteurs institutionnels et les bénévoles qui ont rendu possible ce déménagement.
 
-Tout au long de l'année, le HAUM a également participé à des animations publiques ( voir section \ref{animationspubliques}).
+\subsubsection{Évolution des adhésions}
 
+Au cours de l'année 2016, le nombre d'adhésions est passé de 35 à 41.
+Il est à noter qu'environ 25 membres de l'année précédente n'ont pas renouvelé leur adhésion. L'association a par conséquent connu un changement massif de sa base de membres.
+
+\subsubsection{Participation au projet French Tech}
+
+Les discussions pour le changement de local font partie d'un projet plus vaste de création d'un pôle d'activité sur le secteur de la Gare dans le cadre du label French Tech. L'objectif est de mettre en oeuvre une Cité de l'Innovation Colaborative (CICO) rassemblant un certain nombre d'acteurs. L'inclusion du HAUM dans le projet (en tout cas sa présence sur le lieu de l'éventuelle CICO) a permis au Mans d'obtenir le label French Tech.
+
+Dans le cadre de ce projet, les discussions portent à la fois sur la réhabilitation de l'ancien hôpital spécialisé de la rue Étoc Demazy mais également sur une "première phase" à plus court terme qui prendrait place dans les locaux de l'ancienne DDCS (Boulevard Lefaucheux). Cet aménagement permettrait de rassembler un incubateur, une pépinière et le hackerspace dans 1000m\textsuperscript{2}.
+
+L'implication principale porte sur le déménagement du HAUM à court ou moyen terme. Il va donc être nécessaire de planifier ce déménagement, afin de minimiser les éventuels problèmes lors de celui-ci.
+
+Cette planification ne peut se faire qu'avec le concours des partenaires institutionnels qui tendent à partager difficilement les informations. Affaire à suivre.
+
+\subsubsection{Animations publiques}
+
+Comme à l'accoutumée, le HAUM a contribué \& organisé en 2016, plusieurs animations à destination du public.
+
+\paragraph{24H du code} Pour l'édition 2016 des 24H du Code (co-organisées par l'ENSIM et la Ruche Numérique), le HAUM a proposé un sujet. Le sujet portait sur la création d'un outil pour explorer des données fournies par Sarthe Développement (ouverture des lieux touristiques). Plusieurs membres du HAUM ont ainsi collaborer pour rédiger le sujet mais aussi être présent toute la nuit aux 24h du code pour guider les équipes.
+
+\paragraph{Bienvenus sur Mars} Organisé au prieuré de Vivoin, le festival BienVenus sur Mars a invité le HAUM a présenter son Pong1D, le dHAUM mais également une création originale. Les Laumios sont nés ainsi et ont engendré de nombreuses idées de projets futurs. La vente de Laumios n'est pas exclue et l'affaire est à suivre.
+
+\paragraph{Gamers Assembly} La Gamers Assembly accueille depuis 2 ans un village \textit{maker}. Cette année, l'organisation a convié le HAUM pour y présenter quelques réalisations. Ce fut l'occasion pour certains de nos membres d'aller pour la première fois sur une aussi grosse manifestation.
+
+\paragraph{Siestes Teriaki} Après les siestes il y a deux ans et le festival l'an dernier, le HAUM est revenu à Teriaki cette année avec le projet Lampes Orbitales (également présenté à Vivoin), un mini-spectacles sur Laumios et un labyrinthe géant. L'organisation de l'évènement a posé de nombreux problèmes de gestion du temps et la question se pose désormais : doit on continuer à prendre part à des manifestations demandant autant de travail ?
+
+\paragraph{Le sHAUM} Suite à son déménagement, le hackerspace a invité ses partenaires à venir découvrir le nouveau lieu. Ce fut une bonne occasion pour discuter avec toutes et tous et de faire découvrir l'association et ses possibilités.
+
+\paragraph{Les HAUMTalks} L'association a organisé 6 sessions de ses mini-conférences en 2016 et au moins une septième est prévue. Les HAUMTalks intéressent un public assez large et permettent à chacun de présenter des sujets lui tenant à coeur (hacker). Ces rencontres permettent aussi de faire connaître l'association auprès d'extérieurs.
 
 \subsubsection{Partenariats et Réseau}
 
-Les partenariats du HAUM en 2015 sont dans la juste ligne de ceux des années précédentes. Dans le cadre des
-RepairCafés, le HAUM a pu ainsi travailler avec Cyclamaine, Les Petits Débrouillards, la ville du Mans et les Conseils de Quartiers.
+Dans le cadre des différentes manifestations auxquelles il a participé et des différents projets auxquels il prend part, le HAUM continue de développer un réseau d'acteurs et de partenaires proches. Parmi eux : Teriaki, le Hangar Créalab, la compagnie Organic Orchestra, le CESI, la Ruche Numérique, l'ENSIM, la CCI du Mans et de la Sarthe, Le Mans Développement, Sarthe Développement, Le Mans Métropole, etc...
 
-Beaucoup de discussions ont eu cours avec Créalab et OrganicOrchestra dans les derniers mois et l'association Teriaki
-nous a retrouvé cette année encore sur le festival.
+Merci à eux.
 
-Merci à tous ceux qui nous ont fait confiance et ceux avec qui nous avons pu travailler.
+Le HAUM a pu participer à la Gamers Assembly 2016 grâce à l'association Rurart. L'association tient également à remercier QuaiLab, Les Usines Nouvelles et les petits débrouillards Poitou-Charente pour leur accueil et les échanges durant l'évènement.
+
+\subsubsection{Projets}
+
+Parmi les très nombreux travaux menés en séance, nous retiendrons tout particulièrement :
+
+\begin{itemize}
+    \item Lampes orbitales/Laumios
+    \item LaumioAnimator
+    \item Labyrinthe Initiati
+    \item Améliorations de la fraiseuse
+    \item Stations de soudage
+    \item sHAUM
+    \item Amélioration du 1DPong (lors de la Gamer's Assembly)
+    \item Reconstruction du PianoStairs
+\end{itemize}
+
+Ces différents projet permettent de faire vivre et connaître l'association. Merci à tous ceux qui y ont pris part en les construisant, en les documentant, en les \textit{hackant} et en les faisant évoluer.
 
 \subsubsection{Communication}
 
-Le HAUM a amélioré son kit de communication à l'occasion de Festival D, à Nantes. Pour l'occasion, des pochettes aux
-couleurs et logo de l'association ont été réalisées ainsi que des feuillets à y glisser. L'objectif derrière ce projet
-est de disposer d'un outil de communication modulable pour correspondre à l'évènement et que celui ci soit esthétiquement réussi.
+Depuis sa création officielle en 2012, le HAUM souffre de problèmes chroniques de communication. En effet, qu'elle soit à destination des membres ou des extérieurs, la communication du HAUM reste spécifique et non-inclusive.
 
-Le site web évolue aussi régulièrement, ainsi que le compte Flickr. Merci à tous ceux qui contribuent à le rendre vivant et à l'améliorer.
+À toutes fins utiles, le bureau tient à rappeler que le moyen de communication officiel de l'association est la liste de discussion par mail.
 
-\subsubsection{Animations publiques \label{animationspubliques}}
+Les problèmes de communication ont notamment conduits à des malentendus avec nos partenaires, des retards dans la propagation de l'information et des soucis d'organisation plus larges. À l'échelle du hackerspace, la communication trop sporadique entre les membres a privé certains d'opportunités intéressantes et mené d'autres à s'écarter de l'association ou en tout cas des rôles qu'ils y occupaient.
 
-Voici une liste des animations publiques auxqelles l'association a participé ou qu'elle a (co-)organisé :
+À un autre égard, le manque de réponse sur l'adresse contact cause de graves lenteurs dans nos rapports aux autres et renvoie une image très statique du HAUM.
 
-\begin{description}
-    \item[Formations arduino]
-    \item[Mise en place d'une soirée de mini-conférences libres] la dernière a eu lieu l'hiver dernier et a attiré une
-		douzaine de personnes. Il n'y a pas de séance prévue à venir, faute de talkers, d'un site fonctionnel et de
-		temps pour les organiser. L'épicerie du pré s'est dite prête à accueillir ce genre d'évènement dans son ex-bibliothèque. Ce partenariat permettrait éventuellement d'attirer plus de monde (public et talkers).
-    \item[24h du Code] en partenariat avec l'ENSIM et la CCI Le Mans Sarthe/Ruche Numérique, en 2015, le HAUM a de nouveau proposé un sujet.
-	\item[GlobalGameJam] le HAUM a ouvert un lieu de jam à la Ruche Numérique pour les membres du hacklab seulement. L'expérience sera renouvelée en 2016si quelques membres se proposent pour son organisation.
-    \item[Festival Teriaki] en partenariat avec Teriaki, le HAUM a pu présenter dHAUMidi, un instrument de musique à taille humaine.
-	\item[RepairCafés] Sur 4 dates, en partenariat avec la Ville du Mans, les Conseils de Quartier, les Petits
-		Débrouillard, Cyclamaine, etc...
-	\item[OpenBidouille Camp] à la fête de quartier Bellevue
-	\item[Festival D] à Nantes, sur invitation de Ping.
-\end{description}
+À l'avenir, il pourrait être intéressant de désigner 2 personnes responsables de \texttt{contact@haum.org} (tout en étendant la diffusion pour information au bureau) de même qu'il est nécessaire d'améliorer rapidement la communication des informations au sein de l'association. Les personnes en charge des relations avec les partenaires extérieurs \textbf{doivent} s'acquitter du transfert de l'information vers la mailing-liste (et pas uniquement en séance). Les informations importante, même confidentielles, doivent également être transférées \textit{a minima} sur la liste du bureau, sinon évoquées en réunion de bureau.
 
-\subsubsection{Projets}
-\label{ssec:projects}
-
-\begin{description}
-	\item[HAUMtinsel] Une évolution de la guirlande connectée est en cours de développement pour ce Noël.
-	\item[dHAUM/dHAUMidi] Un instrument de musique à base de dôme géodésique présenté dans le cadre du festival Teriaki.
-	\item[PCBlastifieuse] Un hack de plastifieuse maintenant PCB-ready.
-	\item[Meubles en carton] Un meuble pour l'installation son et réseau, ainsi qu'un rocking chair ont été réalisés.
-	\item[Mise à jour du Pong/PolychrHAUM] Écriture et utilisation d'une lib permettant la gestion d'animations sur une bande de LED.
-	\item[Rénovation du Pianostairs]
-\end{description}
-
-\subsubsection{Changement de lieu}
-
-Alors que les mois passent et que le matériel s'entasse dans les 29m\textsuperscript{2} de notre local, il devient
-urgent d'envisager un second déménagement (moins précipité que le premier). Des discussions sont en cours au sein du bureau et plusieurs
-possibilités sont envisagées : Créalab, Etoc, autre... Beaucoup de choses restent à décider.
-
-À savoir toutefois : la majorité de ces options implique le paiement d'un loyer ce qui est difficile compte tenu des
-finances de l'association.
+La vie du hackerspace est une affaire commune, ses relations vers l'extérieur également.
 
 \subsection{Objectifs}
 
-Le HAUM a progressé dans sa communication avec le grand public \textit{via} les événements sus-cités. Le HAUM pourrait cependant contribuer davantage à la sensibilisation du public sur
-des sujets de société comme la surveillance de masse, la protection des données personnelles, \ldots Cela peut se faire
-par exemple à travers les talks ou des conférences plus longues.
+L'année 2016 a vu naître et progresser bon nombre de partenariats et de discussion. Il est donc raisonnable d'espérer que 2017 apportera son lot de nouveau matériel et de nouvelles relations.
 
-\medskip
+Il est temps également de travailler sur l'axe de mutualisation des moyens pour que chacun des membres puisse réaliser ses envies et qu'un minimum d'argent soit perdu en doublons.
 
-Le HAUM doit aussi se doter d'un dossier de communication, d'un dossier de presse et surtout, il faudra changer la manière de gérer les relations avec les partenaires.
-En effet, plusieurs fois cette année, des incompréhensions sont nées de la discussion de plusieurs membres avec un seul
-et même partenaire : désigner un membre responsable de la discussion pour chaque structure avec laquelle l'association
-travaille permettra surement de clarifier la situation (tant pour nous que pour nos interlocuteurs).
+Le déménagement a entrainé la perte de l'accès à Internet et il est également nécessaire de remédier à cela dans les mois à venir pour garantir à tous un accès convenable aux ressources.
 
-Par ailleurs, un certain effort a été fait cette année autour des compte-rendus de séances. Cet effort doit se
-poursuivre pour continuer d'informer les membres, mais également les personnes extérieures à l'association, sur
-l'avancement des projets et la vie de l'assocation. Ces comptes-rendu étant publiés sur le site internet, ils
-participent à l'animation et l'enrichissement de ce dernier.
+Les prestations et actions extérieures sont bien sûr à poursuivre et à encourager. Il faudra par ailleurs simplifier les relations avec les partenaires afin d'éviter les malentendus encore trop courants. La réalisation de prestations contribue au financement de l'association et il est souhaitable qu'un maximum de membres y participent.
 
-\section{Rapport financier}
+Enfin, parce que l'association compte toujours plus de membres, il faudra travailler à l'amélioration des locaux pour permettre de l'utiliser comme lieu de travail bien sûr mais également comme lieu de vie et d'échange. Le HAUM vise à proposer une vision alternative du rapport à la technologie et si cela passe bien sûr par les aspects techniques, cela peut également être renforcé par des temps d'échanges informels (Jeudi du Libre) ou non (HAUMTalks).
 
-\subsection{Bilan}
+\newpage
 
-\begin{figure}[!ht]\centering
-	\begin{tabular}{c|ccc}
-		Objet & Dépenses & Recettes & Soldes (positifs)\\\hline
-		Cotisations reçues & & 590 & \\
-		Services (impression 3D) & & 5 & \\
-		Dons en espèces & & 83 & \\
-		Dons en nature & & \parbox[c]{5cm}{Consommables (Makershop),\\outils \& matières premières}  & \\
-		Mise à disposition gratuite & & Locaux (Ruche Numérique) & \\\hline\hline
-		Achats fournitures & 326.94 & & \\
-		Assurance & 86.79 & & \\
-		Charge exceptionnelles & 93.15 & & \\\hline\hline
-		\textsc{\textbf{Totaux}} & 506.88 & 678 & 171.12\\\hline
-		Reliquat 2014 & & & 235.05\\
-		Montant disponible & & & 406.17
-	\end{tabular}
-	\caption{Budget 2015 du HAUM}
-\end{figure}
-
-\begin{figure}[!ht]\centering
-\begin{tabular}{c|c|cc|c}
-	Année & Nombre d'Adhérents & Dépenses & Recettes & Résidu\\\hline
-	2013 & 13 & 34.29 & 145 & 110.71\\
-	2014 & 23 & 205.66 & 330 & 124.34\\
-	2015 & 32 & 506.88 & 678 & 171.12
-\end{tabular}
-\caption{Evolution du nombre d'adhérents, des dépenses et des recettes.}
-\end{figure}
-
-\subsection{Objectifs}
-
-Il apparaît au terme de cette troisième année d'exercice que la trésorerie se porte bien. Certains points restent
-toutefois à améliorer.
-
-Le fonctionnement interne du HAUM et la bonne volontée de ses membres font que les projets et l'équipement sont
-généralement financés \textit{via} des dons ou des prêts. Cette situation n'est pas viable à long terme et doit cesser :
-elle est en effet une source potentielle de conflits et de dissensions internes. L'objectif de l'association, à sa
-création, était de permettre la mutualisation des moyens : l'activité financière doit aller en ce sens.
-
-Au cours d'un certain nombre de projets il est apparu que la trésorerie était un sujet sensible et que les cotisations
-ne suffisaient pas au financement des projets à long terme. Les matières premières et les outils restent encore trop
-souvent la charge de quelques membres.
-
-Plusieurs possibilités s'offrent alors :
-
-\begin{description}
-	\item[Augmentation de la cotisation] A 20\euro{}/an, la cotisation du HAUM reste encore une des plus faible en France. La
-		possibilité d'augmenter la cotisation n'est pas à écarter.
-	\item[Double cotisation] Certains mettent en place une double cotisation, la première permettant d'accèder au
-		hackerspace dans le cadre de certains temps bien définis et la seconde permettant d'accèder au lieu sur des
-		plages beaucoup plus étendues. A réfléchir.
-	\item[Goodies] La vente de goodies est parfois intéressante mais l'expérience menée avec les mugs montrent que cela
-		n'intéresse en fait que quelques membres. On peut retenter avec des tee-shirts qui intéresseront peut être plus
-		largement.
-	\item[Vente d'électronique] Beaucoup de hackerspaces se financent en vendant des cartes permettant de reproduire
-		certains de leurs projets ou des kits... peut-être est-il possible de mettre ça en place.
-	\item[Subventions/Sponsors par projets] Plus simples à obtenir que des subventions en général, les subventions sur
-		projet (ou les sponsoring) permettent de réaliser un projet parfois coûteux sans saigner la trésorerie aux
-		quatres veines. Cette option est soumise à la condition que les comptes et la gestion soient
-		irréprochables...
-\end{description}
-
-Quoi qu'il en soit, un certains nombre de règles devront maintenant êtres appliquées pour faciliter et clarifier la
-gestion de la trésorerie :
-
-\begin{itemize}
-	\item Toutes les factures doivent être établies \textbf{au nom du HAUM} et ne contenir que des éléments
-		\textbf{achetés pour le HAUM}.
-	\item Les dépenses de l'argent du hackerspace ne doivent être faites qu'après \textbf{consultation des autres
-		membres} et, surtout, \textbf{vérification de la trésorerie}.
-\end{itemize}
-
-La question se pose une fois encore sur la possibilité de prioriser le financement des projets. Des discussions sont à
-lancer de ce côté là.
-
-Enfin, il faudra, au cours de la prochaine année d'exercice établir une convention d'occupation des lieux en bonne et dûe
-forme auprès de la Ruche Numérique.
-\end{document}
+\includepdf[pages=-]{../convocation/BilanFinancier2016.pdf}
+\includepdf[pages=-]{../convocation/BilanGeneral2016.pdf}
+\includepdf[pages=-]{../convocation/BudgetPrevisionnel2017.pdf}
