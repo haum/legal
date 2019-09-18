@@ -7,13 +7,14 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.0 r"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="adhesion_A4.svg"
    viewBox="0 0 744.09449 1052.3622">
   <defs
@@ -25,16 +26,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2760358"
-     inkscape:cx="443.96079"
-     inkscape:cy="283.03618"
+     inkscape:zoom="0.45114678"
+     inkscape:cx="884.38238"
+     inkscape:cy="574.48942"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-width="1366"
+     inkscape:window-height="724"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -55,1877 +56,236 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g3341"
-       inkscape:label="QR Code: haum.org"
-       transform="matrix(0.78025348,0,0,0.78025348,302.33066,397.01488)">
+       transform="matrix(0.361381,0,0,0.361381,28.199492,-244.85062)"
+       id="g5048">
+      <text
+         id="text2985"
+         y="978.34399"
+         x="16.41585"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="978.34399"
+           x="16.41585"
+           id="tspan2987"
+           sodipodi:role="line"
+           style="font-size:214.69970703px;line-height:1.25;font-family:sans-serif">H   UM</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3767"
+         d="m 275.91602,809.43228 -77.90625,168.6875 h 157.125 z m 0.1875,62.96875 37.1875,79.125 h -73.71875 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate" />
       <rect
-         id="rect3343"
-         style="fill:#ffffff;stroke:none"
-         height="116"
-         width="116"
+         y="821.98572"
+         x="198.93878"
+         height="30.304577"
+         width="155.62477"
+         id="rect3996"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="771.6922"
+         height="30.304577"
+         width="98.481911"
+         id="rect3996-7"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="956.02881"
+         height="30.304577"
+         width="72.002571"
+         id="rect3996-6"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,-0.16371764,0.16371764,0,546.71911,150.29116)"
+       id="g5048-5">
+      <text
+         id="text2985-9"
+         y="978.34399"
+         x="16.41585"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="978.34399"
+           x="16.41585"
+           id="tspan2987-7"
+           sodipodi:role="line"
+           style="font-size:214.69970703px;line-height:1.25;font-family:sans-serif">H   UM</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3767-5"
+         d="m 275.91602,809.43228 -77.90625,168.6875 h 157.125 z m 0.1875,62.96875 37.1875,79.125 h -73.71875 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate" />
+      <rect
+         y="821.98572"
+         x="198.93878"
+         height="30.304577"
+         width="155.62477"
+         id="rect3996-64"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="771.6922"
+         height="30.304577"
+         width="98.481911"
+         id="rect3996-7-8"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="956.02881"
+         height="30.304577"
+         width="72.002571"
+         id="rect3996-6-8"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.00000026, 8.00000026;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 447.40522,-18.551658 V 544.30556"
+       id="path5122"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5250"
+       transform="translate(9.9766317,-528.771)">
+      <text
+         inkscape:tile-y0="452.23852"
+         inkscape:tile-x0="420.14087"
+         inkscape:tile-h="36.904297"
+         inkscape:tile-w="14.580078"
+         inkscape:tile-cy="470.69067"
+         inkscape:tile-cx="427.43091"
+         transform="rotate(-90)"
+         id="text5124"
+         y="434.72095"
+         x="-441.40259"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           y="434.72095"
+           x="-441.40259"
+           id="tspan5126"
+           sodipodi:role="line">DIY</tspan></text>
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(0,-1.7922614e-6)"
+         id="use5238"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
          y="0"
          x="0" />
-      <rect
-         id="rect3345"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="16" />
-      <rect
-         id="rect3347"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="20" />
-      <rect
-         id="rect3349"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="24" />
-      <rect
-         id="rect3351"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="28" />
-      <rect
-         id="rect3353"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="32" />
-      <rect
-         id="rect3355"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="36" />
-      <rect
-         id="rect3357"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="40" />
-      <rect
-         id="rect3359"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="52" />
-      <rect
-         id="rect3361"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="56" />
-      <rect
-         id="rect3363"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="60" />
-      <rect
-         id="rect3365"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="64" />
-      <rect
-         id="rect3367"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="72" />
-      <rect
-         id="rect3369"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="76" />
-      <rect
-         id="rect3371"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="80" />
-      <rect
-         id="rect3373"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="84" />
-      <rect
-         id="rect3375"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="88" />
-      <rect
-         id="rect3377"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="92" />
-      <rect
-         id="rect3379"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="96" />
-      <rect
-         id="rect3381"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="16" />
-      <rect
-         id="rect3383"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="40" />
-      <rect
-         id="rect3385"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="52" />
-      <rect
-         id="rect3387"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="60" />
-      <rect
-         id="rect3389"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="72" />
-      <rect
-         id="rect3391"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="96" />
-      <rect
-         id="rect3393"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="16" />
-      <rect
-         id="rect3395"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="24" />
-      <rect
-         id="rect3397"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="28" />
-      <rect
-         id="rect3399"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="32" />
-      <rect
-         id="rect3401"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="40" />
-      <rect
-         id="rect3403"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="52" />
-      <rect
-         id="rect3405"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="72" />
-      <rect
-         id="rect3407"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="80" />
-      <rect
-         id="rect3409"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="84" />
-      <rect
-         id="rect3411"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="88" />
-      <rect
-         id="rect3413"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="96" />
-      <rect
-         id="rect3415"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="16" />
-      <rect
-         id="rect3417"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="24" />
-      <rect
-         id="rect3419"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="28" />
-      <rect
-         id="rect3421"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="32" />
-      <rect
-         id="rect3423"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="40" />
-      <rect
-         id="rect3425"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="48" />
-      <rect
-         id="rect3427"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="52" />
-      <rect
-         id="rect3429"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="56" />
-      <rect
-         id="rect3431"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="60" />
-      <rect
-         id="rect3433"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="72" />
-      <rect
-         id="rect3435"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="80" />
-      <rect
-         id="rect3437"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="84" />
-      <rect
-         id="rect3439"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="88" />
-      <rect
-         id="rect3441"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="96" />
-      <rect
-         id="rect3443"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="16" />
-      <rect
-         id="rect3445"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="24" />
-      <rect
-         id="rect3447"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="28" />
-      <rect
-         id="rect3449"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="32" />
-      <rect
-         id="rect3451"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="40" />
-      <rect
-         id="rect3453"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="48" />
-      <rect
-         id="rect3455"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="56" />
-      <rect
-         id="rect3457"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="60" />
-      <rect
-         id="rect3459"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="64" />
-      <rect
-         id="rect3461"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="72" />
-      <rect
-         id="rect3463"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="80" />
-      <rect
-         id="rect3465"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="84" />
-      <rect
-         id="rect3467"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="88" />
-      <rect
-         id="rect3469"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="96" />
-      <rect
-         id="rect3471"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="16" />
-      <rect
-         id="rect3473"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="40" />
-      <rect
-         id="rect3475"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="56" />
-      <rect
-         id="rect3477"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="64" />
-      <rect
-         id="rect3479"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="72" />
-      <rect
-         id="rect3481"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="96" />
-      <rect
-         id="rect3483"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="16" />
-      <rect
-         id="rect3485"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="20" />
-      <rect
-         id="rect3487"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="24" />
-      <rect
-         id="rect3489"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="28" />
-      <rect
-         id="rect3491"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="32" />
-      <rect
-         id="rect3493"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="36" />
-      <rect
-         id="rect3495"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="40" />
-      <rect
-         id="rect3497"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="48" />
-      <rect
-         id="rect3499"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="56" />
-      <rect
-         id="rect3501"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="64" />
-      <rect
-         id="rect3503"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="72" />
-      <rect
-         id="rect3505"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="76" />
-      <rect
-         id="rect3507"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="80" />
-      <rect
-         id="rect3509"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="84" />
-      <rect
-         id="rect3511"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="88" />
-      <rect
-         id="rect3513"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="92" />
-      <rect
-         id="rect3515"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="96" />
-      <rect
-         id="rect3517"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="52" />
-      <rect
-         id="rect3519"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="56" />
-      <rect
-         id="rect3521"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="60" />
-      <rect
-         id="rect3523"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="64" />
-      <rect
-         id="rect3525"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="16" />
-      <rect
-         id="rect3527"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="20" />
-      <rect
-         id="rect3529"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="36" />
-      <rect
-         id="rect3531"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="40" />
-      <rect
-         id="rect3533"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="44" />
-      <rect
-         id="rect3535"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="52" />
-      <rect
-         id="rect3537"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="64" />
-      <rect
-         id="rect3539"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="80" />
-      <rect
-         id="rect3541"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="84" />
-      <rect
-         id="rect3543"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="24" />
-      <rect
-         id="rect3545"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="28" />
-      <rect
-         id="rect3547"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="36" />
-      <rect
-         id="rect3549"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="48" />
-      <rect
-         id="rect3551"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="52" />
-      <rect
-         id="rect3553"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="64" />
-      <rect
-         id="rect3555"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="68" />
-      <rect
-         id="rect3557"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="72" />
-      <rect
-         id="rect3559"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="88" />
-      <rect
-         id="rect3561"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="20" />
-      <rect
-         id="rect3563"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="40" />
-      <rect
-         id="rect3565"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="44" />
-      <rect
-         id="rect3567"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="48" />
-      <rect
-         id="rect3569"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="60" />
-      <rect
-         id="rect3571"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="68" />
-      <rect
-         id="rect3573"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="72" />
-      <rect
-         id="rect3575"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="84" />
-      <rect
-         id="rect3577"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="88" />
-      <rect
-         id="rect3579"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="92" />
-      <rect
-         id="rect3581"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="24" />
-      <rect
-         id="rect3583"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="28" />
-      <rect
-         id="rect3585"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="32" />
-      <rect
-         id="rect3587"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="36" />
-      <rect
-         id="rect3589"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="48" />
-      <rect
-         id="rect3591"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="56" />
-      <rect
-         id="rect3593"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="80" />
-      <rect
-         id="rect3595"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="84" />
-      <rect
-         id="rect3597"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="88" />
-      <rect
-         id="rect3599"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="20" />
-      <rect
-         id="rect3601"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="24" />
-      <rect
-         id="rect3603"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="32" />
-      <rect
-         id="rect3605"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="40" />
-      <rect
-         id="rect3607"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="44" />
-      <rect
-         id="rect3609"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="48" />
-      <rect
-         id="rect3611"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="56" />
-      <rect
-         id="rect3613"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="68" />
-      <rect
-         id="rect3615"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="72" />
-      <rect
-         id="rect3617"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="76" />
-      <rect
-         id="rect3619"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="80" />
-      <rect
-         id="rect3621"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="92" />
-      <rect
-         id="rect3623"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="48" />
-      <rect
-         id="rect3625"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="56" />
-      <rect
-         id="rect3627"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="60" />
-      <rect
-         id="rect3629"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="64" />
-      <rect
-         id="rect3631"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="68" />
-      <rect
-         id="rect3633"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="72" />
-      <rect
-         id="rect3635"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="76" />
-      <rect
-         id="rect3637"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="80" />
-      <rect
-         id="rect3639"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="84" />
-      <rect
-         id="rect3641"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="88" />
-      <rect
-         id="rect3643"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="96" />
-      <rect
-         id="rect3645"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="16" />
-      <rect
-         id="rect3647"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="20" />
-      <rect
-         id="rect3649"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="24" />
-      <rect
-         id="rect3651"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="28" />
-      <rect
-         id="rect3653"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="32" />
-      <rect
-         id="rect3655"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="36" />
-      <rect
-         id="rect3657"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="40" />
-      <rect
-         id="rect3659"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="48" />
-      <rect
-         id="rect3661"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="52" />
-      <rect
-         id="rect3663"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="56" />
-      <rect
-         id="rect3665"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="64" />
-      <rect
-         id="rect3667"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="72" />
-      <rect
-         id="rect3669"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="84" />
-      <rect
-         id="rect3671"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="88" />
-      <rect
-         id="rect3673"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="92" />
-      <rect
-         id="rect3675"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="16" />
-      <rect
-         id="rect3677"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="40" />
-      <rect
-         id="rect3679"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="48" />
-      <rect
-         id="rect3681"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="56" />
-      <rect
-         id="rect3683"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="60" />
-      <rect
-         id="rect3685"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="64" />
-      <rect
-         id="rect3687"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="68" />
-      <rect
-         id="rect3689"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="76" />
-      <rect
-         id="rect3691"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="84" />
-      <rect
-         id="rect3693"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="88" />
-      <rect
-         id="rect3695"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="96" />
-      <rect
-         id="rect3697"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="16" />
-      <rect
-         id="rect3699"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="24" />
-      <rect
-         id="rect3701"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="28" />
-      <rect
-         id="rect3703"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="32" />
-      <rect
-         id="rect3705"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="40" />
-      <rect
-         id="rect3707"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="52" />
-      <rect
-         id="rect3709"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="64" />
-      <rect
-         id="rect3711"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="80" />
-      <rect
-         id="rect3713"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="96" />
-      <rect
-         id="rect3715"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="16" />
-      <rect
-         id="rect3717"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="24" />
-      <rect
-         id="rect3719"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="28" />
-      <rect
-         id="rect3721"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="32" />
-      <rect
-         id="rect3723"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="40" />
-      <rect
-         id="rect3725"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="56" />
-      <rect
-         id="rect3727"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="64" />
-      <rect
-         id="rect3729"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="80" />
-      <rect
-         id="rect3731"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="84" />
-      <rect
-         id="rect3733"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="16" />
-      <rect
-         id="rect3735"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="24" />
-      <rect
-         id="rect3737"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="28" />
-      <rect
-         id="rect3739"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="32" />
-      <rect
-         id="rect3741"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="40" />
-      <rect
-         id="rect3743"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="56" />
-      <rect
-         id="rect3745"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="72" />
-      <rect
-         id="rect3747"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="80" />
-      <rect
-         id="rect3749"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="88" />
-      <rect
-         id="rect3751"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="92" />
-      <rect
-         id="rect3753"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="96" />
-      <rect
-         id="rect3755"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="16" />
-      <rect
-         id="rect3757"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="40" />
-      <rect
-         id="rect3759"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="48" />
-      <rect
-         id="rect3761"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="80" />
-      <rect
-         id="rect3763"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="88" />
-      <rect
-         id="rect3765"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="16" />
-      <rect
-         id="rect3767"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="20" />
-      <rect
-         id="rect3769"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="24" />
-      <rect
-         id="rect3771"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="28" />
-      <rect
-         id="rect3773"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="32" />
-      <rect
-         id="rect3775"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="36" />
-      <rect
-         id="rect3777"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="40" />
-      <rect
-         id="rect3779"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="48" />
-      <rect
-         id="rect3781"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="52" />
-      <rect
-         id="rect3783"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="60" />
-      <rect
-         id="rect3785"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="68" />
-      <rect
-         id="rect3787"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="80" />
-      <rect
-         id="rect3789"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="92" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5240"
+         transform="translate(0,147.61719)"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5242"
+         transform="translate(0,295.23437)"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5244"
+         transform="translate(0,442.85156)"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5246"
+         transform="translate(0,590.46875)"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5248"
+         transform="translate(0,738.08594)"
+         xlink:href="#text5124"
+         inkscape:tiled-clone-of="#text5124"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="g5878"
+       transform="matrix(0.12349841,0,0,0.12349841,332.12699,407.88417)">
+      <image
+         y="0"
+         x="0"
+         id="image4592"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAooAAAKKCAIAAAA1Fu3bAAAAA3NCSVQICAjb4U/gAAASe0lEQVR4 nO3cwW7jyhVF0Tjw//9yZ5JBJ3goPKT65u6S15oaliiR1AYn5+vXr1//AABK/rl9AADAf5NnAMiR ZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFn AMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcA yJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDI+d5646+vr623HvLr16/DX28+7/mVz87v e/PKW+/7ed/k1r3w4hV7Y+5qP3vxt655BrdsXTmengEgR54BIEeeASBHngEgR54BIEeeASBHngEg R54BIEeeASBnbTXsbGul5Wxrz2hr+WvO3Cfa+ibnNrZujnnrqLau2Oa90Nzma27VbWkunXl6BoAc eQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgJzoatjZ1nrX3Cs3d8HmNqdu3nfr25jbYJrb ftq66ra2zG583lE1l7DOXvxtn+PpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHKe XA170daCz9b2080i1dzW1eetWTX3qs62rqsbW1fOi+eXP8XTMwDkyDMA5MgzAOTIMwDkyDMA5Mgz AOTIMwDkyDMA5MgzAORYDXvA1lLSjeZRza07bW0wbW17nX3et3Hjxa06Cjw9A0COPANAjjwDQI48 A0COPANAjjwDQI48A0COPANAjjwDQM6Tq2Gft5Vzsyu0tTq0tSp1811tXTnNY745C81j3lp2m/u8 P21xrHlUWzw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQE50NWxu3+fzzO0KzS00 ba07nTUXx84c85+ydT0376O5c+S3/e/z9AwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADny DAA5X81dIX63teAzd200N4maW0hbZ+Hs876rraNqbqg1j+qn8fQMADnyDAA58gwAOfIMADnyDAA5 8gwAOfIMADnyDAA58gwAOd/bB/DnvbixdbNYtLX9dDb3ic7HfLPQNOfmqLaO+ezFb/Lmam/+bryo uc5288pzPD0DQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAzpfNmt9tbQNtLdo0F3ya y19nzfvoxetq607ZuhfmbH1XW1uEzWO+4ekZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy 5BkAcqyG/YetrasXl5I+b9ureY7O7Df9fc1r8saLy27NY27y9AwAOfIMADnyDAA58gwAOfIMADny DAA58gwAOfIMADnyDAA50dWwuX2fn7YbdePFa6O5SdQ8Ry/uRjX9tCtnztbd3fw2PD0DQI48A0CO PANAjjwDQI48A0COPANAjjwDQI48A0COPANAzvf2AfwvtnZ2tjbF5j7Rzftubahtve/5lZs7d3O2 ro2zue2n5ubUi5/3xV/CLZ6eASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEgR54BIOfJ1bCt 7ZibLaSbnZ3P243aeuWtdactc1fs3Iba3Ptunf2tb+Pmlc9e/AV+kadnAMiRZwDIkWcAyJFnAMiR ZwDIkWcAyJFnAMiRZwDIkWcAyPl6cUdpbu1oy9Ye2Y3P20LasrW/dta8j7bW6OY+b/P+nTuqz/sm 53h6BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgJwnV8POmhtbZ1s7WZ+3/bT1vs2V peYi1Za5bb6t/z3bWklrXnXNX/4zT88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQ 8+Rq2IubRGcvLgc1j+ps7pW3bK1ZnTV/VZrnt7k3d7b1u3G29XnneHoGgBx5BoAceQaAHHkGgBx5 BoAceQaAHHkGgBx5BoAceQaAnO/tA/jzmktYc17c6Hlxr6q5z3V2823MHXNzvetGczHw7MXfurPm ltkNT88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQE10Nay68NLdyXrS13XZ+5a3V oa1lt61dsOaS3dnW7tuc5jH/tO3FM0/PAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88A kBNdDZvbjbr53621o7ntp7lPdHNUzbPwohfP7837btnaFLOS9rutaszx9AwAOfIMADnyDAA58gwA OfIMADnyDAA58gwAOfIMADnyDAA5X80VnuaGy9nWZs3cvs/WctBPuya3zuCWrRW8uf89+7yduxfP UfNeOPP0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnf2wfw1yzL/H/Mfd7mhtrN +zYXqc62rvbPu8u2rqsbW/fgDb/8v/P0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIM ADnR1bC5hZe5/aa5o2p6cZNoS3O9q/nKZ3P3b3OrbsvWzt2NubO/9fvs6RkAcuQZAHLkGQBy5BkA cuQZAHLkGQBy5BkAcuQZAHLkGQByvl7cq7pZeJnbBvq8HaUbN0e1tcE0977Nc3Tj8z7RWfPzNo/q RnNBz2oYAPBv8gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnR1bDm9tPN+9oV+vtePOaz rU/04t29df+eba1ZNVe05jQ3H62GAQD/Js8AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJDz vX0A/4u5XaHmytLZ1jHP7fu8uBl348Vv8uY+2nrls7mzf/OJtn6vmmtlW5tiWzw9A0COPANAjjwD QI48A0COPANAjjwDQI48A0COPANAjjwDQM5Xcy3lxtb205zmStqL+2ufd21smdu6+rz/nfN5n+hs axVu69fM0zMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkfG8fwF/bWqSae+W5FZ6b V97aFJtzPuatlbTmYtHWJ5q76ppLWJ93Bl/8nXyRp2cAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcA yJFnAMiRZwDIia6G3ezdvLh2tOXFXaGzudWh5iLVT9vX2/plmPvd2PLTfidf/H329AwAOfIMADny DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA50dWwpuYS1otrOHN7ZDffxtxu1Oets82Z2wXbMndN Nr24KHe2dV15egaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoCcD1wNu1mHeXGjZ2sN Z2ujZ243qrnu9OI1eXZzBrfO0dzVPsc1+fc19+Y8PQNAjjwDQI48A0COPANAjjwDQI48A0COPANA jjwDQI48A0DOV3MtZc7WxtbZT9szOvtpn+jsZmOreV1tfRs35s7Ci7/AL56FrVe+4ekZAHLkGQBy 5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcr63D+DPm9v3+bzloLmdnS1bZ2HuynlRc8usuWbV 3F+7sfXL0PxFuuHpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHI+cDXsbGs3qrlY tPXKN+Y2mJqrQzffc3NVau4Mzml+k3Pvu3WOPu/36oanZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiR ZwDIkWcAyJFnAMj5enFLpbkrdHazwvPiytKNrYW1s7mzsLWUtPW/N37aMX+e5lk42zpHnp4BIEee ASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEg53v7AP5acwnLetfvXlzhmXvfueWvuffd+t+t O2VrU+ynbbfNaa7+zfH0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnR1bDmzs7c ssyLa1Zby1835j5Rc3NqTnPNasvcWbh55a2zsHUfNZe/bnh6BoAceQaAHHkGgBx5BoAceQaAHHkG gBx5BoAceQaAHHkGgJyvFxd8mttPN5s1n7d0tnWOzuau9uaiXPPKufF5V/uL3/NZ8/f5RZ6eASBH ngEgR54BIEeeASBHngEgR54BIEeeASBHngEgR54BIOd7+wD+vM/brNlaK9vS3AaaW4Zqnt/mKtyL a3TNXbAbW5+ouRk3x9MzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5HzgatjWetfZ 1ubUjeZe1dncMW99optro/lt3LzvzSdqrtGdNdfozpr374vbbZ6eASBHngEgR54BIEeeASBHngEg R54BIEeeASBHngEgR54BIOeruZVztrV3M7c69OKizY25fZ+tVz5r7lU11+iaZ7DpxevqzNn/nadn AMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyPnePoCW5grPi0s6W8tuc7a2kOY+b3MX 7Ky5/fR5V/vZ560cNn/5PT0DQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANATnQ1bGsJ 6/y+N8syW7tCN+87d8zN1aGtK6fp5mpvrqTN3b9b9/7ZTzvmz+PpGQBy5BkAcuQZAHLkGQBy5BkA cuQZAHLkGQBy5BkAcuQZAHKiq2Fz+003a0c373u29b43ts7R3Pe8tex2tnVd3ZjbftraMjvb2rp6 8Xdjzot3ypmnZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMj5aq6lbK1Kzdlawprz ectfzU2xrQWuOc0NNd/z75pX+9z7Nnl6BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkG gJzv7QN4ydwKz9ySTnN/7cX33dqcurG1hNXcq7rx4hrdT/PiHXrm6RkAcuQZAHLkGQBy5BkAcuQZ AHLkGQBy5BkAcuQZAHLkGQByvl7cM/q8xaK5s7C1Grb1iT7P1jlqLo41V/BuNO+UZhduNHfBzjw9 A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQE50NWzL1uLYT9tgau5VnW0d85zmPbjl xevq5pVvvHgfvXiHenoGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAnO+tN26utJy9 uDuzdczNja25haazz9vnau7czflp937zXvi8++jM0zMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA 5MgzAOTIMwDkrK2GvWhuKenmfefWf+b+d+ubfNHcIlVzv+nFfa6zuXt/617Yuia3fuu2rjpPzwCQ I88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJCzthr2edtPN9teZ82Fpq3NqbmjmtsG+mlr R1tX+9a30bzqzpq/KnOv3LxTzjw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQM7a athZc8OlubOzdVSf58XP29wF21qF27pTzuY+0Yufd+6VP29TzNMzAOTIMwDkyDMA5MgzAOTIMwDk yDMA5MgzAOTIMwDkyDMA5ERXw87m1nB+2lrZ2c23MbcbNfe/N86f9+bbePHs39i6u+c2p5qLVHOf 6EXNX35PzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJDz5GrYi7aWg5r7PjeLRXOv 3FwOevETNa/nue9qbl+veQa37tCt9b2ts+DpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkA cuQZAHKshv2fbO0Kvfi+zV2hre95zos7Smc3Z7C5rzfnxR3D5lHN8fQMADnyDAA58gwAOfIMADny DAA58gwAOfIMADnyDAA58gwAOU+uhjUXi7bM7d00V5a2dtBefOW5habm9tPWVt3WK8/dg1vX842t 1b85np4BIEeeASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEgJ7oatrVI1dRctLnRXB16UXNT 7GxrgWtrrWzrqM62luy2rpzmWTjz9AwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA5 X821FAD4yTw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48 A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwD QI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQM6/AKwCq5Rb Xx0xAAAAAElFTkSuQmCC "
+         height="650"
+         width="650" />
+      <g
+         transform="matrix(1.3695854,0,0,1.3695854,-1334.0743,-187.80444)"
+         id="g4724">
+        <g
+           id="g4717">
+          <rect
+             y="276.07236"
+             x="1149.0485"
+             height="196.70152"
+             width="124.64255"
+             id="rect4711"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:15.60690784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1176.2863,413.45323 36.3912,-74.81674 37.008,74.81674 z"
+             id="path3767-9"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1212.3436,294.61667 v 64.6546"
+             id="path3781-6"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1212.3436,414.1667 v 42.08649"
+             id="path3783-4"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1162.8859,334.1898 h 98.9154"
+             id="path3789-0"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
     </g>
     <flowRoot
+       transform="translate(5.9766317,-528.771)"
        xml:space="preserve"
        id="flowRoot5941"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.26803906,-534.70935)"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion5943"><rect
            id="rect5945"
            width="371.14673"
            height="225.18629"
            x="35.277607"
            y="149.64282" /></flowRegion><flowPara
-         id="flowPara5947" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="406.69235"
-       y="241.22424"
-       id="text6043"><tspan
-         sodipodi:role="line"
-         id="tspan6045"
-         x="406.69235"
-         y="276.61487" /></text>
-    <g
-       transform="matrix(0.361381,0,0,0.361381,22.490898,-250.78897)"
-       id="g5048">
-      <path
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-weight:bold;font-size:214.69970703px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128"
-         d="m 38.835319,787.00884 v 216.53046 h 55.862095 v -91.79195 -42.19923 -6.48554 -76.05374 z m 138.228421,0 v 82.53928 H 112.5975 v 42.19923 h 64.46624 v 91.79195 h 55.86209 V 787.00884 Z m 333.74575,0 v 129.79722 c -3e-5,30.65315 7.71359,53.49921 23.08851,68.48728 14.52145,14.15618 36.22925,21.61086 65.07156,22.39676 v -41.20482 c -10.61442,-0.88985 -18.50309,-4.63101 -23.60735,-11.2416 -5.80194,-7.73574 -8.69071,-20.54852 -8.69062,-38.43762 V 787.00884 Z m 130.83491,0 v 129.79722 c -1.6e-4,17.8891 -2.92195,30.70188 -8.82033,38.43762 -3.74523,4.93113 -9.06946,8.2832 -15.95443,10.03097 v 42.06955 c 25.16621,-1.8047 44.36877,-9.16085 57.59158,-22.05086 15.37468,-14.98807 23.04506,-37.83413 23.04527,-68.48728 V 787.00884 Z m 88.85186,0 v 216.53046 h 52.96522 V 845.16249 l 0.0432,0.0865 v -58.24013 h -53.00846 z m 70.90854,0 v 100.1367 l 31.95208,74.79986 h 35.3678 l 49.8954,-116.78291 v 158.37681 h 52.79227 V 787.00884 H 900.50381 L 850.91107,902.88378 801.57775,787.00884 Z"
-         id="text2985-2" />
-      <g
-         id="g1322">
-        <path
-           id="path3767-99"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,-0.69179065,0.69179065,0,1241.2045,1223.6432)"
-         id="layer1-6-1"
-         inkscape:label="Calque 1">
-        <path
-           id="text2985-2-1"
-           transform="translate(0,752.36179)"
-           d="m 36.125,69.46875 v 156.5 H 76.5 v -66.34375 -30.5 -4.6875 -54.96875 z m 99.90625,0 V 129.125 H 89.4375 v 30.5 h 46.59375 v 66.34375 h 40.375 v -156.5 z m 241.21875,0 v 93.8125 c -2e-5,22.15493 5.57509,38.66719 16.6875,49.5 10.49555,10.23155 26.18512,15.61952 47.03125,16.1875 V 199.1875 c -7.6717,-0.64315 -13.37333,-3.34712 -17.0625,-8.125 -4.19342,-5.5911 -6.28131,-14.85169 -6.28125,-27.78125 v -93.8125 z m 94.5625,0 v 93.8125 c -1.1e-4,12.92956 -2.11187,22.19015 -6.375,27.78125 -2.70691,3.56403 -6.55506,5.98678 -11.53125,7.25 v 30.40625 c 18.18918,-1.30431 32.06806,-6.62109 41.625,-15.9375 11.11224,-10.83281 16.6561,-27.34507 16.65625,-49.5 v -93.8125 z m 64.21875,0 v 156.5 H 574.3125 V 111.5 l 0.0312,0.0625 V 69.46875 h -38.3125 z m 51.25,0 v 72.375 l 23.09375,54.0625 h 25.5625 L 672,111.5 v 114.46875 h 38.15625 v -156.5 h -51.25 l -35.84375,83.75 -35.65625,-83.75 z"
-           style="font-style:normal;font-weight:bold;font-size:214.69970703px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path3767-99-0"
-           transform="translate(0,752.36179)"
-           d="M 275.90625,57.0625 198,225.75 h 29.34375 L 239.625,199.15625 h -0.0625 l 36.53125,-79.125 37.1875,79.125 H 253.875 L 241.59375,225.75 H 355.125 Z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="821.98572"
-           x="198.93878"
-           height="30.304577"
-           width="155.62477"
-           id="rect3996-0-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-        <rect
-           transform="rotate(90)"
-           y="-291.90344"
-           x="771.6922"
-           height="30.304577"
-           width="98.481911"
-           id="rect3996-7-81-4"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-        <rect
-           transform="rotate(90)"
-           y="-291.90344"
-           x="956.02881"
-           height="30.304577"
-           width="72.002571"
-           id="rect3996-6-3-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         transform="matrix(0,0.21474298,-0.18224729,0,244.80647,1131.1606)"
-         id="g1322-3">
-        <path
-           id="path3767-99-6"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,246.06442,1240.8061)"
-         id="g1322-3-6">
-        <path
-           id="path3767-99-6-1"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-8"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-7"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-9"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,247.86137,1349.2188)"
-         id="g1322-3-2">
-        <path
-           id="path3767-99-6-0"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-2"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-7"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,247.14259,1414.5481)"
-         id="g1322-3-5">
-        <path
-           id="path3767-99-6-9"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-22"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-8"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-97"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.96502811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.72022478, 7.72022478;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 441.69661,0.85203506 V 525.02922"
-       id="path5122"
-       inkscape:connector-curvature="0" />
-    <g
-       id="g5250"
-       transform="translate(4.2680391,-534.70935)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-589.01978"
-         y="434.72095"
-         id="use5240"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4647"
-           x="-589.01978"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-736.63696"
-         y="434.72095"
-         id="use5242"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4651"
-           x="-736.63696"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-884.25415"
-         y="434.72095"
-         id="use5244"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4655"
-           x="-884.25415"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-1031.8713"
-         y="434.72095"
-         id="use5246"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4659"
-           x="-1031.8713"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-    </g>
-    <flowRoot
+         id="flowPara5947"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5953"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.26803906,-6.75659)"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(5.9766317,-0.81823839)"><flowRegion
          id="flowRegion5955"><rect
            id="rect5957"
            width="371.14673"
@@ -1934,17 +294,22 @@
            y="145.19514"
            style="font-size:12.5px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara5977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Le HAUM (<flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1284">H</flowSpan>ackerspace <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1286">AU </flowSpan><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1288">M</flowSpan>ans) est fier de te compter parmi ses membres ! N'oublie pas, tu peux :</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Le HAUM (Hackerspace AU Mans) est fier de te compter parmi ses membres ! N'oublie pas, tu peux :</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="412.40097"
+       y="247.1626"
+       id="text6043"><tspan
+         sodipodi:role="line"
+         id="tspan6045"
+         x="412.40097"
+         y="247.1626"
+         style="font-size:40px;line-height:1.25;stroke-width:1px"> </tspan></text>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot6051"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.26803906,-48.75672)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(5.9766317,-47.124768)"><flowRegion
          id="flowRegion6053"><rect
            id="rect6055"
            width="334.99576"
@@ -1952,23 +317,25 @@
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057">Venir au local pour travailler sur les machines quand   c'est ouvert ou que quelqu'un du bureau peut ouvrir</flowPara></flowRoot>    <flowRoot
+         id="flowPara6057"
+         style="font-size:12.5px;line-height:1.25">Venir au local pour travailler sur les machines quand   c'est ouvert ou que quelqu'un du bureau peut ouvrir</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot6051-6-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.38137596,-9.11567)"><flowRegion
-         id="flowRegion6053-3-3"><rect
-           id="rect6055-4-7"
+       id="flowRoot6051-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(6.2291697,-6.8886284)"><flowRegion
+         id="flowRegion6053-3"><rect
+           id="rect6055-4"
            width="334.99576"
            height="42.142857"
            x="71.428574"
            y="227.98085"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4186">T'inscrire et discuter avec nous sur la liste de diffusion : haum_hackerspace@lists.haum.org</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
+         id="flowPara6057-3"
+         style="font-size:12.5px;line-height:1.25">T'inscrire et discuter avec nous sur la liste de diffusion : haum_hackerspace@lists.haum.org</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6051-6-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.38137596,29.98611)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(4.7506627,92.381572)"><flowRegion
          id="flowRegion6053-3-2"><rect
            id="rect6055-4-1"
            width="334.99576"
@@ -1976,13 +343,12 @@
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057-3-0">Nous parler sur Twitter <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Italic'"
-   id="flowSpan1290">via</flowSpan> @haum72</flowPara></flowRoot>    <flowRoot
+         id="flowPara6057-3-0"
+         style="font-size:12.5px;line-height:1.25">Nous parler sur Twitter via le @haum72</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6051-6-5-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.08137596,53.46288)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(5.8798127,39.320402)"><flowRegion
          id="flowRegion6053-3-2-0"><rect
            id="rect6055-4-1-2"
            width="334.99576"
@@ -1990,97 +356,108 @@
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057-3-0-5">Apporter ton projet et contribuer aux projets de groupe</flowPara></flowRoot>    <text
+         id="flowPara6057-3-0-5"
+         style="font-size:12.5px;line-height:1.25">Apporter ton projet &amp; contribuer aux projets de groupe</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-482.21973"
-       y="504.77988"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-488.15814"
+       y="510.48846"
        id="text6167"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="504.77988"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6175">Nom &amp; Prénom* :</tspan><tspan
+         x="-488.15814"
+         y="510.48846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6171">Nom &amp; Prénom* :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="522.4964"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan926">Payé le* :</tspan><tspan
+         x="-488.15814"
+         y="526.11346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6175">Payé le* :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="540.21295"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6177">Montant* :                       (prix libre à partir de 30€/an)</tspan><tspan
+         x="-488.15814"
+         y="541.73846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6177">Montant* :                       (prix libre à partir de 40€/an)</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="557.9295"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan3399">Moyen de paiement :</tspan><tspan
+         x="-488.15814"
+         y="557.36346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan3399">Moyen de paiement* :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="575.646"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         x="-488.15814"
+         y="572.98846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
          id="tspan6179">Adresse courriel* :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="593.36255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         x="-488.15814"
+         y="588.61346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
          id="tspan6181">Téléphone :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="610.03333"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6197" /><tspan
+         x="-488.15814"
+         y="604.23846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6185">Twitter :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="626.7041"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6199">     J'ai lu et j'accepte le règlement intérieur de l'association</tspan><tspan
+         x="-488.15814"
+         y="619.86346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6189">Facebook :</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="643.37488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6201" /><tspan
+         x="-488.15814"
+         y="635.48846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6197"> </tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="660.04565"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         x="-488.15814"
+         y="651.11346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6199">     J'ai lu et j'accepte le règlement intérieur de l'asso</tspan><tspan
+         sodipodi:role="line"
+         x="-488.15814"
+         y="666.73846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6201"> </tspan><tspan
+         sodipodi:role="line"
+         x="-488.15814"
+         y="682.36346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
          id="tspan6203">Fait à Le Mans le</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="677.76215"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan3401">Signature :</tspan><tspan
+         x="-488.15814"
+         y="697.98846"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan3401">Signature</tspan><tspan
          sodipodi:role="line"
-         x="-482.21973"
-         y="694.43292"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
-         id="tspan6191" /></text>
+         x="-488.15814"
+         y="713.61346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6191"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-481.81354"
-       y="485.0069"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-487.75195"
+       y="490.71552"
        id="text6207"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan6209"
-         x="-481.81354"
-         y="485.0069"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'">Adhésion</tspan></text>
+         x="-487.75195"
+         y="490.71552"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25000191px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';stroke-width:1px">Adhésion</tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.74299067;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.74299067;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6211"
        width="10.614152"
        height="10.614152"
-       x="618.27075"
-       y="470.62579" />
+       x="642.84821"
+       y="477.67242" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6215"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-28.097133,-67.123253)"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(5.6649687,18.300042)"><flowRegion
          id="flowRegion6217"><rect
            id="rect6219"
            width="237.00525"
@@ -2088,15 +465,17 @@
            x="71.428574"
            y="390.98587" /></flowRegion><flowPara
          id="flowPara6221"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Payé le :</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         id="flowPara3085">Payé le :</flowPara><flowPara
          id="flowPara6223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
-         id="flowPara4188"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature du trésorier :</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.835652,0,0,1.9720958,-23.472477,31.419168)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
+         id="flowPara6225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature d'un membre du bureau</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.396256,0,0,1.396256,-9.3554743,169.80511)"
        xml:space="preserve"
        id="flowRoot5953-5"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5955-7"><rect
            id="rect5957-3"
            width="371.14673"
@@ -2105,2093 +484,546 @@
            y="145.19514"
            style="font-size:12.5px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
          id="flowPara5977-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Welcome HAUM !</flowPara></flowRoot>    <path
-       style="fill:none;stroke:#000000;stroke-width:1.18868196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0.33860425,526.18109 c 744.41761575,0 744.41761575,0 744.41761575,0"
-       id="path4071"
-       inkscape:connector-curvature="0" />
-    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Welcome HAUM !</flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot5941-2"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(0.38078446,-8.91049)"><flowRegion
-         id="flowRegion5943-4"><rect
-           id="rect5945-7"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-258.70209"
+       y="714.05341"
+       id="text3087"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3089"
+         x="-258.70209"
+         y="714.05341"
+         style="font-size:9px;line-height:1.25;font-family:sans-serif;stroke-width:1">* : champs obligatoires</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.262333"
+       y="196.45416"
+       id="text3091"><tspan
+         sodipodi:role="line"
+         id="tspan3093"
+         x="60.262333"
+         y="196.45416"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.262333"
+       y="238.56537"
+       id="text3095"><tspan
+         sodipodi:role="line"
+         id="tspan3097"
+         x="60.262333"
+         y="238.56537"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.262333"
+       y="281.02435"
+       id="text3099"><tspan
+         sodipodi:role="line"
+         id="tspan3101"
+         x="60.262333"
+         y="281.02435"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.262333"
+       y="330.57166"
+       id="text3099-1"><tspan
+         sodipodi:role="line"
+         id="tspan3101-4"
+         x="60.262333"
+         y="330.57166"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <g
+       transform="matrix(0.361381,0,0,0.361381,28.820257,274.98418)"
+       id="g5048-4">
+      <text
+         id="text2985-8"
+         y="978.34399"
+         x="16.41585"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="978.34399"
+           x="16.41585"
+           id="tspan2987-71"
+           sodipodi:role="line"
+           style="font-size:214.69970703px;line-height:1.25;font-family:sans-serif">H   UM</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3767-7"
+         d="m 275.91602,809.43228 -77.90625,168.6875 h 157.125 z m 0.1875,62.96875 37.1875,79.125 h -73.71875 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate" />
+      <rect
+         y="821.98572"
+         x="198.93878"
+         height="30.304577"
+         width="155.62477"
+         id="rect3996-2"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="771.6922"
+         height="30.304577"
+         width="98.481911"
+         id="rect3996-7-7"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="956.02881"
+         height="30.304577"
+         width="72.002571"
+         id="rect3996-6-2"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,-0.16371764,0.16371764,0,547.33986,670.12596)"
+       id="g5048-5-2">
+      <text
+         id="text2985-9-6"
+         y="978.34399"
+         x="16.41585"
+         style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="978.34399"
+           x="16.41585"
+           id="tspan2987-7-1"
+           sodipodi:role="line"
+           style="font-size:214.69970703px;line-height:1.25;font-family:sans-serif">H   UM</tspan></text>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3767-5-0"
+         d="m 275.91602,809.43228 -77.90625,168.6875 h 157.125 z m 0.1875,62.96875 37.1875,79.125 h -73.71875 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate" />
+      <rect
+         y="821.98572"
+         x="198.93878"
+         height="30.304577"
+         width="155.62477"
+         id="rect3996-64-6"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="771.6922"
+         height="30.304577"
+         width="98.481911"
+         id="rect3996-7-8-1"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+      <rect
+         transform="rotate(90)"
+         y="-291.90344"
+         x="956.02881"
+         height="30.304577"
+         width="72.002571"
+         id="rect3996-6-8-5"
+         style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.00000026, 8.00000026;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 448.02596,501.28314 V 1064.1403"
+       id="path5122-9"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5250-4"
+       transform="translate(10.597357,-8.9362)">
+      <text
+         inkscape:tile-y0="452.23852"
+         inkscape:tile-x0="420.14087"
+         inkscape:tile-h="36.904297"
+         inkscape:tile-w="14.580078"
+         inkscape:tile-cy="470.69067"
+         inkscape:tile-cx="427.43091"
+         transform="rotate(-90)"
+         id="text5124-9"
+         y="434.72095"
+         x="-441.40259"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+           y="434.72095"
+           x="-441.40259"
+           id="tspan5126-0"
+           sodipodi:role="line">DIY</tspan></text>
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(0,-1.7922614e-6)"
+         id="use5238-9"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5240-1"
+         transform="translate(0,147.61719)"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5242-7"
+         transform="translate(0,295.23437)"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5244-7"
+         transform="translate(0,442.85156)"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5246-1"
+         transform="translate(0,590.46875)"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+      <use
+         height="100%"
+         width="100%"
+         id="use5248-1"
+         transform="translate(0,738.08594)"
+         xlink:href="#text5124-9"
+         inkscape:tiled-clone-of="#text5124-9"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="g5878-5"
+       transform="matrix(0.12349841,0,0,0.12349841,332.74776,927.71897)">
+      <image
+         y="0"
+         x="0"
+         id="image4592-9"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAooAAAKKCAIAAAA1Fu3bAAAAA3NCSVQICAjb4U/gAAASe0lEQVR4 nO3cwW7jyhVF0Tjw//9yZ5JBJ3goPKT65u6S15oaliiR1AYn5+vXr1//AABK/rl9AADAf5NnAMiR ZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFn AMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcA yJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDI+d5646+vr623HvLr16/DX28+7/mVz87v e/PKW+/7ed/k1r3w4hV7Y+5qP3vxt655BrdsXTmengEgR54BIEeeASBHngEgR54BIEeeASBHngEg R54BIEeeASBnbTXsbGul5Wxrz2hr+WvO3Cfa+ibnNrZujnnrqLau2Oa90Nzma27VbWkunXl6BoAc eQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgJzoatjZ1nrX3Cs3d8HmNqdu3nfr25jbYJrb ftq66ra2zG583lE1l7DOXvxtn+PpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHKe XA170daCz9b2080i1dzW1eetWTX3qs62rqsbW1fOi+eXP8XTMwDkyDMA5MgzAOTIMwDkyDMA5Mgz AOTIMwDkyDMA5MgzAORYDXvA1lLSjeZRza07bW0wbW17nX3et3Hjxa06Cjw9A0COPANAjjwDQI48 A0COPANAjjwDQI48A0COPANAjjwDQM6Tq2Gft5Vzsyu0tTq0tSp1811tXTnNY745C81j3lp2m/u8 P21xrHlUWzw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQE50NWxu3+fzzO0KzS00 ba07nTUXx84c85+ydT0376O5c+S3/e/z9AwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADny DAA5X81dIX63teAzd200N4maW0hbZ+Hs876rraNqbqg1j+qn8fQMADnyDAA58gwAOfIMADnyDAA5 8gwAOfIMADnyDAA58gwAOd/bB/DnvbixdbNYtLX9dDb3ic7HfLPQNOfmqLaO+ezFb/Lmam/+bryo uc5288pzPD0DQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAzpfNmt9tbQNtLdo0F3ya y19nzfvoxetq607ZuhfmbH1XW1uEzWO+4ekZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy 5BkAcqyG/YetrasXl5I+b9ureY7O7Df9fc1r8saLy27NY27y9AwAOfIMADnyDAA58gwAOfIMADny DAA58gwAOfIMADnyDAA50dWwuX2fn7YbdePFa6O5SdQ8Ry/uRjX9tCtnztbd3fw2PD0DQI48A0CO PANAjjwDQI48A0COPANAjjwDQI48A0COPANAzvf2AfwvtnZ2tjbF5j7Rzftubahtve/5lZs7d3O2 ro2zue2n5ubUi5/3xV/CLZ6eASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEgR54BIOfJ1bCt 7ZibLaSbnZ3P243aeuWtdactc1fs3Iba3Ptunf2tb+Pmlc9e/AV+kadnAMiRZwDIkWcAyJFnAMiR ZwDIkWcAyJFnAMiRZwDIkWcAyPl6cUdpbu1oy9Ye2Y3P20LasrW/dta8j7bW6OY+b/P+nTuqz/sm 53h6BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgJwnV8POmhtbZ1s7WZ+3/bT1vs2V peYi1Za5bb6t/z3bWklrXnXNX/4zT88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQ 8+Rq2IubRGcvLgc1j+ps7pW3bK1ZnTV/VZrnt7k3d7b1u3G29XnneHoGgBx5BoAceQaAHHkGgBx5 BoAceQaAHHkGgBx5BoAceQaAnO/tA/jzmktYc17c6Hlxr6q5z3V2823MHXNzvetGczHw7MXfurPm ltkNT88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQE10Nay68NLdyXrS13XZ+5a3V oa1lt61dsOaS3dnW7tuc5jH/tO3FM0/PAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88A kBNdDZvbjbr53621o7ntp7lPdHNUzbPwohfP7837btnaFLOS9rutaszx9AwAOfIMADnyDAA58gwA OfIMADnyDAA58gwAOfIMADnyDAA5X80VnuaGy9nWZs3cvs/WctBPuya3zuCWrRW8uf89+7yduxfP UfNeOPP0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnf2wfw1yzL/H/Mfd7mhtrN +zYXqc62rvbPu8u2rqsbW/fgDb/8v/P0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIM ADnR1bC5hZe5/aa5o2p6cZNoS3O9q/nKZ3P3b3OrbsvWzt2NubO/9fvs6RkAcuQZAHLkGQBy5BkA cuQZAHLkGQBy5BkAcuQZAHLkGQByvl7cq7pZeJnbBvq8HaUbN0e1tcE0977Nc3Tj8z7RWfPzNo/q RnNBz2oYAPBv8gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnR1bDm9tPN+9oV+vtePOaz rU/04t29df+eba1ZNVe05jQ3H62GAQD/Js8AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJDz vX0A/4u5XaHmytLZ1jHP7fu8uBl348Vv8uY+2nrls7mzf/OJtn6vmmtlW5tiWzw9A0COPANAjjwD QI48A0COPANAjjwDQI48A0COPANAjjwDQM5Xcy3lxtb205zmStqL+2ufd21smdu6+rz/nfN5n+hs axVu69fM0zMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkfG8fwF/bWqSae+W5FZ6b V97aFJtzPuatlbTmYtHWJ5q76ppLWJ93Bl/8nXyRp2cAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcA yJFnAMiRZwDIia6G3ezdvLh2tOXFXaGzudWh5iLVT9vX2/plmPvd2PLTfidf/H329AwAOfIMADny DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA50dWwpuYS1otrOHN7ZDffxtxu1Oets82Z2wXbMndN Nr24KHe2dV15egaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoCcD1wNu1mHeXGjZ2sN Z2ujZ243qrnu9OI1eXZzBrfO0dzVPsc1+fc19+Y8PQNAjjwDQI48A0COPANAjjwDQI48A0COPANA jjwDQI48A0DOV3MtZc7WxtbZT9szOvtpn+jsZmOreV1tfRs35s7Ci7/AL56FrVe+4ekZAHLkGQBy 5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcr63D+DPm9v3+bzloLmdnS1bZ2HuynlRc8usuWbV 3F+7sfXL0PxFuuHpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHI+cDXsbGs3qrlY tPXKN+Y2mJqrQzffc3NVau4Mzml+k3Pvu3WOPu/36oanZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiR ZwDIkWcAyJFnAMj5enFLpbkrdHazwvPiytKNrYW1s7mzsLWUtPW/N37aMX+e5lk42zpHnp4BIEee ASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEg53v7AP5acwnLetfvXlzhmXvfueWvuffd+t+t O2VrU+ynbbfNaa7+zfH0DAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnR1bDmzs7c ssyLa1Zby1835j5Rc3NqTnPNasvcWbh55a2zsHUfNZe/bnh6BoAceQaAHHkGgBx5BoAceQaAHHkG gBx5BoAceQaAHHkGgJyvFxd8mttPN5s1n7d0tnWOzuau9uaiXPPKufF5V/uL3/NZ8/f5RZ6eASBH ngEgR54BIEeeASBHngEgR54BIEeeASBHngEgR54BIOd7+wD+vM/brNlaK9vS3AaaW4Zqnt/mKtyL a3TNXbAbW5+ouRk3x9MzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA5HzgatjWetfZ 1ubUjeZe1dncMW99optro/lt3LzvzSdqrtGdNdfozpr374vbbZ6eASBHngEgR54BIEeeASBHngEg R54BIEeeASBHngEgR54BIOeruZVztrV3M7c69OKizY25fZ+tVz5r7lU11+iaZ7DpxevqzNn/nadn AMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyPnePoCW5grPi0s6W8tuc7a2kOY+b3MX 7Ky5/fR5V/vZ560cNn/5PT0DQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANATnQ1bGsJ 6/y+N8syW7tCN+87d8zN1aGtK6fp5mpvrqTN3b9b9/7ZTzvmz+PpGQBy5BkAcuQZAHLkGQBy5BkA cuQZAHLkGQBy5BkAcuQZAHKiq2Fz+003a0c373u29b43ts7R3Pe8tex2tnVd3ZjbftraMjvb2rp6 8Xdjzot3ypmnZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMiRZwDIkWcAyJFnAMj5aq6lbK1Kzdlawprz ectfzU2xrQWuOc0NNd/z75pX+9z7Nnl6BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkG gJzv7QN4ydwKz9ySTnN/7cX33dqcurG1hNXcq7rx4hrdT/PiHXrm6RkAcuQZAHLkGQBy5BkAcuQZ AHLkGQBy5BkAcuQZAHLkGQByvl7cM/q8xaK5s7C1Grb1iT7P1jlqLo41V/BuNO+UZhduNHfBzjw9 A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQE50NWzL1uLYT9tgau5VnW0d85zmPbjl xevq5pVvvHgfvXiHenoGgBx5BoAceQaAHHkGgBx5BoAceQaAHHkGgBx5BoAceQaAnO+tN26utJy9 uDuzdczNja25haazz9vnau7czflp937zXvi8++jM0zMA5MgzAOTIMwDkyDMA5MgzAOTIMwDkyDMA 5MgzAOTIMwDkrK2GvWhuKenmfefWf+b+d+ubfNHcIlVzv+nFfa6zuXt/617Yuia3fuu2rjpPzwCQ I88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJCzthr2edtPN9teZ82Fpq3NqbmjmtsG+mlr R1tX+9a30bzqzpq/KnOv3LxTzjw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQM7a athZc8OlubOzdVSf58XP29wF21qF27pTzuY+0Yufd+6VP29TzNMzAOTIMwDkyDMA5MgzAOTIMwDk yDMA5MgzAOTIMwDkyDMA5ERXw87m1nB+2lrZ2c23MbcbNfe/N86f9+bbePHs39i6u+c2p5qLVHOf 6EXNX35PzwCQI88AkCPPAJAjzwCQI88AkCPPAJAjzwCQI88AkCPPAJDz5GrYi7aWg5r7PjeLRXOv 3FwOevETNa/nue9qbl+veQa37tCt9b2ts+DpGQBy5BkAcuQZAHLkGQBy5BkAcuQZAHLkGQBy5BkA cuQZAHKshv2fbO0Kvfi+zV2hre95zos7Smc3Z7C5rzfnxR3D5lHN8fQMADnyDAA58gwAOfIMADny DAA58gwAOfIMADnyDAA58gwAOU+uhjUXi7bM7d00V5a2dtBefOW5habm9tPWVt3WK8/dg1vX842t 1b85np4BIEeeASBHngEgR54BIEeeASBHngEgR54BIEeeASBHngEgJ7oatrVI1dRctLnRXB16UXNT 7GxrgWtrrWzrqM62luy2rpzmWTjz9AwAOfIMADnyDAA58gwAOfIMADnyDAA58gwAOfIMADnyDAA5 X821FAD4yTw9A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48 A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwD QI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQI48A0COPANAjjwDQM6/AKwCq5Rb Xx0xAAAAAElFTkSuQmCC "
+         height="650"
+         width="650" />
+      <g
+         transform="matrix(1.3695854,0,0,1.3695854,-1334.0743,-187.80444)"
+         id="g4724-7">
+        <g
+           id="g4717-7">
+          <rect
+             y="276.07236"
+             x="1149.0485"
+             height="196.70152"
+             width="124.64255"
+             id="rect4711-6"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:15.60690784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1176.2863,413.45323 36.3912,-74.81674 37.008,74.81674 z"
+             id="path3767-9-7"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1212.3436,294.61667 v 64.6546"
+             id="path3781-6-3"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1212.3436,414.1667 v 42.08649"
+             id="path3783-4-6"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#1c1c1c;stroke-width:14.87108994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1162.8859,334.1898 h 98.9154"
+             id="path3789-0-5"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <flowRoot
+       transform="translate(6.597357,-8.9362)"
+       xml:space="preserve"
+       id="flowRoot5941-6"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5943-3"><rect
+           id="rect5945-9"
            width="371.14673"
            height="225.18629"
            x="35.277607"
            y="149.64282" /></flowRegion><flowPara
-         id="flowPara5947-9" /></flowRoot>    <text
+         id="flowPara5947-4"
+         style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="406.80508"
-       y="767.02313"
+       id="flowRoot5953-8"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(6.597357,519.01656)"><flowRegion
+         id="flowRegion5955-1"><rect
+           id="rect5957-2"
+           width="371.14673"
+           height="245.79073"
+           x="35.277607"
+           y="145.19514"
+           style="font-size:12.5px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5977-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Le HAUM (Hackerspace AU Mans) est fier de te compter parmi ses membres ! N'oublie pas, tu peux :</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="413.02179"
+       y="766.99744"
        id="text6043-3"><tspan
          sodipodi:role="line"
          id="tspan6045-9"
-         x="406.80508"
-         y="802.41376" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.96502811;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.72022478, 7.72022478;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 441.80936,526.6509 v 524.1772"
-       id="path5122-7"
-       inkscape:connector-curvature="0" />
+         x="413.02179"
+         y="766.99744"
+         style="font-size:40px;line-height:1.25;stroke-width:1px"> </tspan></text>
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6215-3"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-28.229486,-51.076406)"><flowRegion
-         id="flowRegion6217-61"><rect
-           id="rect6219-2"
-           width="237.00525"
-           height="97.990486"
-           x="71.428574"
-           y="390.98587" /></flowRegion><flowPara
-         id="flowPara6221-9"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature d'un membre du bureau :</flowPara><flowPara
-         id="flowPara6223-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
-         id="flowPara4188-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature du trésorier :</flowPara></flowRoot>    <g
-       id="g3341-9"
-       inkscape:label="QR Code: haum.org"
-       transform="matrix(0.78025348,0,0,0.78025348,303.55678,923.39602)">
-      <rect
-         id="rect3343-9"
-         style="fill:#ffffff;stroke:none"
-         height="116"
-         width="116"
-         y="0"
-         x="0" />
-      <rect
-         id="rect3345-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="16" />
-      <rect
-         id="rect3347-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="20" />
-      <rect
-         id="rect3349-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="24" />
-      <rect
-         id="rect3351-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="28" />
-      <rect
-         id="rect3353-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="32" />
-      <rect
-         id="rect3355-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="36" />
-      <rect
-         id="rect3357-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="40" />
-      <rect
-         id="rect3359-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="52" />
-      <rect
-         id="rect3361-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="56" />
-      <rect
-         id="rect3363-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="60" />
-      <rect
-         id="rect3365-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="64" />
-      <rect
-         id="rect3367-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="72" />
-      <rect
-         id="rect3369-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="76" />
-      <rect
-         id="rect3371-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="80" />
-      <rect
-         id="rect3373-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="84" />
-      <rect
-         id="rect3375-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="88" />
-      <rect
-         id="rect3377-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="92" />
-      <rect
-         id="rect3379-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="16"
-         x="96" />
-      <rect
-         id="rect3381-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="16" />
-      <rect
-         id="rect3383-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="40" />
-      <rect
-         id="rect3385-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="52" />
-      <rect
-         id="rect3387-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="60" />
-      <rect
-         id="rect3389-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="72" />
-      <rect
-         id="rect3391-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="20"
-         x="96" />
-      <rect
-         id="rect3393-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="16" />
-      <rect
-         id="rect3395-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="24" />
-      <rect
-         id="rect3397-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="28" />
-      <rect
-         id="rect3399-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="32" />
-      <rect
-         id="rect3401-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="40" />
-      <rect
-         id="rect3403-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="52" />
-      <rect
-         id="rect3405-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="72" />
-      <rect
-         id="rect3407-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="80" />
-      <rect
-         id="rect3409-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="84" />
-      <rect
-         id="rect3411-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="88" />
-      <rect
-         id="rect3413-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="24"
-         x="96" />
-      <rect
-         id="rect3415-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="16" />
-      <rect
-         id="rect3417-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="24" />
-      <rect
-         id="rect3419-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="28" />
-      <rect
-         id="rect3421-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="32" />
-      <rect
-         id="rect3423-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="40" />
-      <rect
-         id="rect3425-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="48" />
-      <rect
-         id="rect3427-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="52" />
-      <rect
-         id="rect3429-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="56" />
-      <rect
-         id="rect3431-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="60" />
-      <rect
-         id="rect3433-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="72" />
-      <rect
-         id="rect3435-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="80" />
-      <rect
-         id="rect3437-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="84" />
-      <rect
-         id="rect3439-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="88" />
-      <rect
-         id="rect3441-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="28"
-         x="96" />
-      <rect
-         id="rect3443-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="16" />
-      <rect
-         id="rect3445-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="24" />
-      <rect
-         id="rect3447-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="28" />
-      <rect
-         id="rect3449-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="32" />
-      <rect
-         id="rect3451-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="40" />
-      <rect
-         id="rect3453-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="48" />
-      <rect
-         id="rect3455-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="56" />
-      <rect
-         id="rect3457-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="60" />
-      <rect
-         id="rect3459-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="64" />
-      <rect
-         id="rect3461-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="72" />
-      <rect
-         id="rect3463-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="80" />
-      <rect
-         id="rect3465-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="84" />
-      <rect
-         id="rect3467-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="88" />
-      <rect
-         id="rect3469-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="32"
-         x="96" />
-      <rect
-         id="rect3471-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="16" />
-      <rect
-         id="rect3473-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="40" />
-      <rect
-         id="rect3475-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="56" />
-      <rect
-         id="rect3477-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="64" />
-      <rect
-         id="rect3479-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="72" />
-      <rect
-         id="rect3481-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="36"
-         x="96" />
-      <rect
-         id="rect3483-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="16" />
-      <rect
-         id="rect3485-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="20" />
-      <rect
-         id="rect3487-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="24" />
-      <rect
-         id="rect3489-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="28" />
-      <rect
-         id="rect3491-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="32" />
-      <rect
-         id="rect3493-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="36" />
-      <rect
-         id="rect3495-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="40" />
-      <rect
-         id="rect3497-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="48" />
-      <rect
-         id="rect3499-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="56" />
-      <rect
-         id="rect3501-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="64" />
-      <rect
-         id="rect3503-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="72" />
-      <rect
-         id="rect3505-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="76" />
-      <rect
-         id="rect3507-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="80" />
-      <rect
-         id="rect3509-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="84" />
-      <rect
-         id="rect3511-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="88" />
-      <rect
-         id="rect3513-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="92" />
-      <rect
-         id="rect3515-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="40"
-         x="96" />
-      <rect
-         id="rect3517-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="52" />
-      <rect
-         id="rect3519-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="56" />
-      <rect
-         id="rect3521-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="60" />
-      <rect
-         id="rect3523-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="44"
-         x="64" />
-      <rect
-         id="rect3525-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="16" />
-      <rect
-         id="rect3527-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="20" />
-      <rect
-         id="rect3529-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="36" />
-      <rect
-         id="rect3531-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="40" />
-      <rect
-         id="rect3533-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="44" />
-      <rect
-         id="rect3535-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="52" />
-      <rect
-         id="rect3537-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="64" />
-      <rect
-         id="rect3539-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="80" />
-      <rect
-         id="rect3541-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="48"
-         x="84" />
-      <rect
-         id="rect3543-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="24" />
-      <rect
-         id="rect3545-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="28" />
-      <rect
-         id="rect3547-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="36" />
-      <rect
-         id="rect3549-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="48" />
-      <rect
-         id="rect3551-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="52" />
-      <rect
-         id="rect3553-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="64" />
-      <rect
-         id="rect3555-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="68" />
-      <rect
-         id="rect3557-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="72" />
-      <rect
-         id="rect3559-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="52"
-         x="88" />
-      <rect
-         id="rect3561-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="20" />
-      <rect
-         id="rect3563-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="40" />
-      <rect
-         id="rect3565-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="44" />
-      <rect
-         id="rect3567-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="48" />
-      <rect
-         id="rect3569-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="60" />
-      <rect
-         id="rect3571-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="68" />
-      <rect
-         id="rect3573-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="72" />
-      <rect
-         id="rect3575-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="84" />
-      <rect
-         id="rect3577-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="88" />
-      <rect
-         id="rect3579-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="56"
-         x="92" />
-      <rect
-         id="rect3581-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="24" />
-      <rect
-         id="rect3583-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="28" />
-      <rect
-         id="rect3585-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="32" />
-      <rect
-         id="rect3587-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="36" />
-      <rect
-         id="rect3589-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="48" />
-      <rect
-         id="rect3591-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="56" />
-      <rect
-         id="rect3593-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="80" />
-      <rect
-         id="rect3595-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="84" />
-      <rect
-         id="rect3597-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="60"
-         x="88" />
-      <rect
-         id="rect3599-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="20" />
-      <rect
-         id="rect3601-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="24" />
-      <rect
-         id="rect3603-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="32" />
-      <rect
-         id="rect3605-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="40" />
-      <rect
-         id="rect3607-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="44" />
-      <rect
-         id="rect3609-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="48" />
-      <rect
-         id="rect3611-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="56" />
-      <rect
-         id="rect3613-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="68" />
-      <rect
-         id="rect3615-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="72" />
-      <rect
-         id="rect3617-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="76" />
-      <rect
-         id="rect3619-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="80" />
-      <rect
-         id="rect3621-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="64"
-         x="92" />
-      <rect
-         id="rect3623-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="48" />
-      <rect
-         id="rect3625-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="56" />
-      <rect
-         id="rect3627-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="60" />
-      <rect
-         id="rect3629-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="64" />
-      <rect
-         id="rect3631-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="68" />
-      <rect
-         id="rect3633-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="72" />
-      <rect
-         id="rect3635-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="76" />
-      <rect
-         id="rect3637-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="80" />
-      <rect
-         id="rect3639-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="84" />
-      <rect
-         id="rect3641-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="88" />
-      <rect
-         id="rect3643-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="68"
-         x="96" />
-      <rect
-         id="rect3645-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="16" />
-      <rect
-         id="rect3647-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="20" />
-      <rect
-         id="rect3649-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="24" />
-      <rect
-         id="rect3651-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="28" />
-      <rect
-         id="rect3653-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="32" />
-      <rect
-         id="rect3655-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="36" />
-      <rect
-         id="rect3657-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="40" />
-      <rect
-         id="rect3659-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="48" />
-      <rect
-         id="rect3661-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="52" />
-      <rect
-         id="rect3663-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="56" />
-      <rect
-         id="rect3665-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="64" />
-      <rect
-         id="rect3667-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="72" />
-      <rect
-         id="rect3669-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="84" />
-      <rect
-         id="rect3671-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="88" />
-      <rect
-         id="rect3673-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="72"
-         x="92" />
-      <rect
-         id="rect3675-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="16" />
-      <rect
-         id="rect3677-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="40" />
-      <rect
-         id="rect3679-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="48" />
-      <rect
-         id="rect3681-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="56" />
-      <rect
-         id="rect3683-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="60" />
-      <rect
-         id="rect3685-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="64" />
-      <rect
-         id="rect3687-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="68" />
-      <rect
-         id="rect3689-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="76" />
-      <rect
-         id="rect3691-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="84" />
-      <rect
-         id="rect3693-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="88" />
-      <rect
-         id="rect3695-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="76"
-         x="96" />
-      <rect
-         id="rect3697-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="16" />
-      <rect
-         id="rect3699-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="24" />
-      <rect
-         id="rect3701-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="28" />
-      <rect
-         id="rect3703-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="32" />
-      <rect
-         id="rect3705-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="40" />
-      <rect
-         id="rect3707-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="52" />
-      <rect
-         id="rect3709-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="64" />
-      <rect
-         id="rect3711-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="80" />
-      <rect
-         id="rect3713-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="80"
-         x="96" />
-      <rect
-         id="rect3715-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="16" />
-      <rect
-         id="rect3717-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="24" />
-      <rect
-         id="rect3719-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="28" />
-      <rect
-         id="rect3721-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="32" />
-      <rect
-         id="rect3723-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="40" />
-      <rect
-         id="rect3725-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="56" />
-      <rect
-         id="rect3727-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="64" />
-      <rect
-         id="rect3729-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="80" />
-      <rect
-         id="rect3731-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="84"
-         x="84" />
-      <rect
-         id="rect3733-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="16" />
-      <rect
-         id="rect3735-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="24" />
-      <rect
-         id="rect3737-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="28" />
-      <rect
-         id="rect3739-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="32" />
-      <rect
-         id="rect3741-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="40" />
-      <rect
-         id="rect3743-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="56" />
-      <rect
-         id="rect3745-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="72" />
-      <rect
-         id="rect3747-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="80" />
-      <rect
-         id="rect3749-8"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="88" />
-      <rect
-         id="rect3751-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="92" />
-      <rect
-         id="rect3753-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="88"
-         x="96" />
-      <rect
-         id="rect3755-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="16" />
-      <rect
-         id="rect3757-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="40" />
-      <rect
-         id="rect3759-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="48" />
-      <rect
-         id="rect3761-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="80" />
-      <rect
-         id="rect3763-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="92"
-         x="88" />
-      <rect
-         id="rect3765-1"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="16" />
-      <rect
-         id="rect3767-3"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="20" />
-      <rect
-         id="rect3769-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="24" />
-      <rect
-         id="rect3771-7"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="28" />
-      <rect
-         id="rect3773-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="32" />
-      <rect
-         id="rect3775-6"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="36" />
-      <rect
-         id="rect3777-4"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="40" />
-      <rect
-         id="rect3779-5"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="48" />
-      <rect
-         id="rect3781-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="52" />
-      <rect
-         id="rect3783-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="60" />
-      <rect
-         id="rect3785-2"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="68" />
-      <rect
-         id="rect3787-9"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="80" />
-      <rect
-         id="rect3789-0"
-         style="fill:#000000;stroke:none"
-         height="4"
-         width="4"
-         y="96"
-         x="92" />
-    </g>
-    <g
-       transform="matrix(0.361381,0,0,0.361381,23.717016,275.59218)"
-       id="g5048-9">
-      <path
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-weight:bold;font-size:214.69970703px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128"
-         d="m 38.835319,787.00884 v 216.53046 h 55.862095 v -91.79195 -42.19923 -6.48554 -76.05374 z m 138.228421,0 v 82.53928 H 112.5975 v 42.19923 h 64.46624 v 91.79195 h 55.86209 V 787.00884 Z m 333.74575,0 v 129.79722 c -3e-5,30.65315 7.71359,53.49921 23.08851,68.48728 14.52145,14.15618 36.22925,21.61086 65.07156,22.39676 v -41.20482 c -10.61442,-0.88985 -18.50309,-4.63101 -23.60735,-11.2416 -5.80194,-7.73574 -8.69071,-20.54852 -8.69062,-38.43762 V 787.00884 Z m 130.83491,0 v 129.79722 c -1.6e-4,17.8891 -2.92195,30.70188 -8.82033,38.43762 -3.74523,4.93113 -9.06946,8.2832 -15.95443,10.03097 v 42.06955 c 25.16621,-1.8047 44.36877,-9.16085 57.59158,-22.05086 15.37468,-14.98807 23.04506,-37.83413 23.04527,-68.48728 V 787.00884 Z m 88.85186,0 v 216.53046 h 52.96522 V 845.16249 l 0.0432,0.0865 v -58.24013 h -53.00846 z m 70.90854,0 v 100.1367 l 31.95208,74.79986 h 35.3678 l 49.8954,-116.78291 v 158.37681 h 52.79227 V 787.00884 H 900.50381 L 850.91107,902.88378 801.57775,787.00884 Z"
-         id="text2985-2-9" />
-      <g
-         id="g1322-4">
-        <path
-           id="path3767-99-5"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-1"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,-0.69179065,0.69179065,0,1241.2045,1223.6432)"
-         id="layer1-6-1-7"
-         inkscape:label="Calque 1">
-        <path
-           id="text2985-2-1-8"
-           transform="translate(0,752.36179)"
-           d="m 36.125,69.46875 v 156.5 H 76.5 v -66.34375 -30.5 -4.6875 -54.96875 z m 99.90625,0 V 129.125 H 89.4375 v 30.5 h 46.59375 v 66.34375 h 40.375 v -156.5 z m 241.21875,0 v 93.8125 c -2e-5,22.15493 5.57509,38.66719 16.6875,49.5 10.49555,10.23155 26.18512,15.61952 47.03125,16.1875 V 199.1875 c -7.6717,-0.64315 -13.37333,-3.34712 -17.0625,-8.125 -4.19342,-5.5911 -6.28131,-14.85169 -6.28125,-27.78125 v -93.8125 z m 94.5625,0 v 93.8125 c -1.1e-4,12.92956 -2.11187,22.19015 -6.375,27.78125 -2.70691,3.56403 -6.55506,5.98678 -11.53125,7.25 v 30.40625 c 18.18918,-1.30431 32.06806,-6.62109 41.625,-15.9375 11.11224,-10.83281 16.6561,-27.34507 16.65625,-49.5 v -93.8125 z m 64.21875,0 v 156.5 H 574.3125 V 111.5 l 0.0312,0.0625 V 69.46875 h -38.3125 z m 51.25,0 v 72.375 l 23.09375,54.0625 h 25.5625 L 672,111.5 v 114.46875 h 38.15625 v -156.5 h -51.25 l -35.84375,83.75 -35.65625,-83.75 z"
-           style="font-style:normal;font-weight:bold;font-size:214.69970703px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:-15.66998291px;word-spacing:0px;fill:#1c1c1c;fill-opacity:1;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           id="path3767-99-0-8"
-           transform="translate(0,752.36179)"
-           d="M 275.90625,57.0625 198,225.75 h 29.34375 L 239.625,199.15625 h -0.0625 l 36.53125,-79.125 37.1875,79.125 H 253.875 L 241.59375,225.75 H 355.125 Z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:26.58799934;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="821.98572"
-           x="198.93878"
-           height="30.304577"
-           width="155.62477"
-           id="rect3996-0-3-6"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-        <rect
-           transform="rotate(90)"
-           y="-291.90344"
-           x="771.6922"
-           height="30.304577"
-           width="98.481911"
-           id="rect3996-7-81-4-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-        <rect
-           transform="rotate(90)"
-           y="-291.90344"
-           x="956.02881"
-           height="30.304577"
-           width="72.002571"
-           id="rect3996-6-3-0-4"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         transform="matrix(0,0.21474298,-0.18224729,0,244.80647,1131.1606)"
-         id="g1322-3-67">
-        <path
-           id="path3767-99-6-6"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-0"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-9"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-75"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,246.06442,1240.8061)"
-         id="g1322-3-6-9">
-        <path
-           id="path3767-99-6-1-7"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-8-8"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-7-5"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-9-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,247.86137,1349.2188)"
-         id="g1322-3-2-3">
-        <path
-           id="path3767-99-6-0-8"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-2-3"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-3-7"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-7-9"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-      <g
-         transform="matrix(0,0.21474297,-0.18224729,0,247.14259,1414.5481)"
-         id="g1322-3-5-3">
-        <path
-           id="path3767-99-6-9-7"
-           d="M 370.59217,769.84379 262.80254,1003.2367 h 40.59947 l 16.9921,-36.79466 h -0.0865 l 50.54395,-109.47587 51.45193,109.47587 h -82.19337 l -16.99211,36.79466 h 157.07971 z"
-           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:36.78665924;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-        <rect
-           y="787.22357"
-           x="264.10141"
-           height="41.928844"
-           width="215.31952"
-           id="rect3996-0-0-22-8"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="717.63837"
-           height="41.928844"
-           width="136.25774"
-           id="rect3996-7-81-6-8-7"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-        <rect
-           transform="rotate(90)"
-           y="-392.72559"
-           x="972.68304"
-           height="41.928844"
-           width="99.621414"
-           id="rect3996-6-3-2-97-4"
-           style="fill:#1c1c1c;fill-opacity:1;stroke:none;stroke-width:1.38358128" />
-      </g>
-    </g>
-    <g
-       id="g5250-1"
-       transform="translate(5.494156,-8.3282002)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-589.01978"
-         y="434.72095"
-         id="use5240-9"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4647-0"
-           x="-589.01978"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-736.63696"
-         y="434.72095"
-         id="use5242-9"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4651-8"
-           x="-736.63696"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-884.25415"
-         y="434.72095"
-         id="use5244-8"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4655-5"
-           x="-884.25415"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="-1031.8713"
-         y="434.72095"
-         id="use5246-8"
-         transform="rotate(-90)"
-         inkscape:tile-x0="420.14087"
-         inkscape:tile-y0="452.23852"><tspan
-           sodipodi:role="line"
-           id="tspan4659-4"
-           x="-1031.8713"
-           y="434.72095"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">DIY</tspan></text>
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot5953-3"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1.494156,519.62456)"><flowRegion
-         id="flowRegion5955-71"><rect
-           id="rect5957-38"
-           width="371.14673"
-           height="245.79073"
-           x="35.277607"
-           y="145.19514"
-           style="font-size:12.5px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara5977-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Le HAUM (<flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1284-9">H</flowSpan>ackerspace <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1286-7">AU </flowSpan><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold'"
-   id="flowSpan1288-9">M</flowSpan>ans) est fier de te compter parmi ses membres ! N'oublie pas, tu peux :</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6051-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1.494156,477.62443)"><flowRegion
-         id="flowRegion6053-3"><rect
-           id="rect6055-2"
+       id="flowRoot6051-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(6.597357,472.71003)"><flowRegion
+         id="flowRegion6053-8"><rect
+           id="rect6055-8"
            width="334.99576"
            height="42.142857"
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057-4">Venir au local pour travailler sur les machines quand   c'est ouvert ou que quelqu'un du bureau peut ouvrir</flowPara></flowRoot>    <flowRoot
+         id="flowPara6057-5"
+         style="font-size:12.5px;line-height:1.25">Venir au local pour travailler sur les machines quand   c'est ouvert ou que quelqu'un du bureau peut ouvrir</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       id="flowRoot6051-6-9-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1.607486,517.26548)"><flowRegion
-         id="flowRegion6053-3-3-7"><rect
-           id="rect6055-4-7-1"
-           width="334.99576"
-           height="42.142857"
-           x="71.428574"
-           y="227.98085"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara4186-2">T'inscrire et discuter avec nous sur la liste de diffusion : haum_hackerspace@lists.haum.org</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot6051-6-5-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1.607486,556.36726)"><flowRegion
-         id="flowRegion6053-3-2-02"><rect
-           id="rect6055-4-1-1"
+       id="flowRoot6051-6-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(6.849957,512.94617)"><flowRegion
+         id="flowRegion6053-3-9"><rect
+           id="rect6055-4-6"
            width="334.99576"
            height="42.142857"
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057-3-0-7">Nous parler sur Twitter <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Italic'"
-   id="flowSpan1290-5">via</flowSpan> @haum72</flowPara></flowRoot>    <flowRoot
+         id="flowPara6057-3-3"
+         style="font-size:12.5px;line-height:1.25">T'inscrire et discuter avec nous sur la liste de diffusion : haum_hackerspace@lists.haum.org</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6051-6-5-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(5.371457,612.21637)"><flowRegion
+         id="flowRegion6053-3-2-5"><rect
+           id="rect6055-4-1-6"
+           width="334.99576"
+           height="42.142857"
+           x="71.428574"
+           y="227.98085"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
+         id="flowPara6057-3-0-1"
+         style="font-size:12.5px;line-height:1.25">Nous parler sur Twitter via le @haum72</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6051-6-5-5-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1.307486,579.84403)"><flowRegion
-         id="flowRegion6053-3-2-0-7"><rect
-           id="rect6055-4-1-2-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(6.500557,559.1552)"><flowRegion
+         id="flowRegion6053-3-2-0-5"><rect
+           id="rect6055-4-1-2-9"
            width="334.99576"
            height="42.142857"
            x="71.428574"
            y="227.98085"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /></flowRegion><flowPara
-         id="flowPara6057-3-0-5-1">Apporter ton projet et contribuer aux projets de groupe</flowPara></flowRoot>    <text
+         id="flowPara6057-3-0-5-8"
+         style="font-size:12.5px;line-height:1.25">Apporter ton projet &amp; contribuer aux projets de groupe</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:125%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-       x="-1008.6008"
-       y="506.00598"
-       id="text6167-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-1007.993"
+       y="511.10919"
+       id="text6167-4"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="506.00598"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6175-1">Nom &amp; Prénom* :</tspan><tspan
+         x="-1007.993"
+         y="511.10919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6171-8">Nom &amp; Prénom* :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="523.72253"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan926-1">Payé le* :</tspan><tspan
+         x="-1007.993"
+         y="526.73419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6175-1">Payé le* :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="541.43909"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6177-1">Montant* :                       (prix libre à partir de 30€/an)</tspan><tspan
+         x="-1007.993"
+         y="542.35919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6177-0">Montant* :                       (prix libre à partir de 40€/an)</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="559.15558"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan3399-7">Moyen de paiement :</tspan><tspan
+         x="-1007.993"
+         y="557.98419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan3399-3">Moyen de paiement* :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="576.87213"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         x="-1007.993"
+         y="573.60919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
          id="tspan6179-0">Adresse courriel* :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="594.58868"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         x="-1007.993"
+         y="589.23419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
          id="tspan6181-4">Téléphone :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="611.01691"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6197-0" /><tspan
+         x="-1007.993"
+         y="604.85919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6185-4">Twitter :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="627.93024"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6199-8">     J'ai lu et j'accepte le règlement intérieur de l'association</tspan><tspan
+         x="-1007.993"
+         y="620.48419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6189-4">Facebook :</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="644.35846"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6201-5" /><tspan
+         x="-1007.993"
+         y="636.10919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6197-4"> </tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="661.27173"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6203-1">Fait à Le Mans le</tspan><tspan
+         x="-1007.993"
+         y="651.73419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6199-7">     J'ai lu et j'accepte le règlement intérieur de l'asso</tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="678.98828"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan3401-6">Signature :</tspan><tspan
+         x="-1007.993"
+         y="667.35919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6201-6"> </tspan><tspan
          sodipodi:role="line"
-         x="-1008.6008"
-         y="695.41656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:17.71653557px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
-         id="tspan6191-6" /></text>
+         x="-1007.993"
+         y="682.98419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6203-3">Fait à Le Mans le</tspan><tspan
+         sodipodi:role="line"
+         x="-1007.993"
+         y="698.60919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan3401-1">Signature</tspan><tspan
+         sodipodi:role="line"
+         x="-1007.993"
+         y="714.23419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:1"
+         id="tspan6191-7"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-       x="-1008.1947"
-       y="486.233"
-       id="text6207-2"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1007.5868"
+       y="491.33624"
+       id="text6207-5"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         id="tspan6209-1"
-         x="-1008.1947"
-         y="486.233"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25000191px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';stroke-width:1">Adhésion</tspan></text>
+         id="tspan6209-9"
+         x="-1007.5868"
+         y="491.33624"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25000191px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';stroke-width:1px">Adhésion</tspan></text>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.74299067;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect6211-9"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.74299067;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6211-6"
        width="10.614152"
        height="10.614152"
-       x="619.49689"
-       y="997.00696" />
+       x="643.46893"
+       y="997.50726" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6215-6"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-26.871014,459.2579)"><flowRegion
-         id="flowRegion6217-4"><rect
-           id="rect6219-8"
+       id="flowRoot6215-2"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(6.285757,538.13484)"><flowRegion
+         id="flowRegion6217-1"><rect
+           id="rect6219-7"
            width="237.00525"
            height="97.990486"
            x="71.428574"
            y="390.98587" /></flowRegion><flowPara
-         id="flowPara6221-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Payé le :</flowPara><flowPara
-         id="flowPara6223-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
-         id="flowPara4188-10"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature du trésorier :</flowPara></flowRoot>    <flowRoot
-       transform="matrix(1.835652,0,0,1.9720958,-22.246364,557.80032)"
+         id="flowPara6221-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'"
+         id="flowPara3085-5">Payé le :</flowPara><flowPara
+         id="flowPara6223-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
+         id="flowPara6225-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature d'un membre du bureau</flowPara></flowRoot>    <flowRoot
+       transform="matrix(1.396256,0,0,1.396256,-8.734743,689.63991)"
        xml:space="preserve"
-       id="flowRoot5953-5-2"
-       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion5955-7-2"><rect
-           id="rect5957-3-9"
+       id="flowRoot5953-5-1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5955-7-8"><rect
+           id="rect5957-3-5"
            width="371.14673"
            height="245.79073"
            x="35.277607"
            y="145.19514"
            style="font-size:12.5px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara5977-3-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Welcome HAUM !</flowPara></flowRoot>    <flowRoot
+         id="flowPara5977-3-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';text-align:justify;text-anchor:start">Welcome HAUM !</flowPara></flowRoot>    <text
        xml:space="preserve"
-       id="flowRoot6215-3-5"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-27.003374,475.30474)"><flowRegion
-         id="flowRegion6217-61-6"><rect
-           id="rect6219-2-4"
-           width="237.00525"
-           height="97.990486"
-           x="71.428574"
-           y="390.98587" /></flowRegion><flowPara
-         id="flowPara6221-9-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature d'un membre du bureau :</flowPara><flowPara
-         id="flowPara6223-3-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Montant :</flowPara><flowPara
-         id="flowPara4188-1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans'">Signature du trésorier :</flowPara></flowRoot>  </g>
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="-778.53693"
+       y="714.67413"
+       id="text3087-7"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3089-5"
+         x="-778.53693"
+         y="714.67413"
+         style="font-size:9px;line-height:1.25;font-family:sans-serif;stroke-width:1">* : champs obligatoires</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.883129"
+       y="716.289"
+       id="text3091-3"><tspan
+         sodipodi:role="line"
+         id="tspan3093-8"
+         x="60.883129"
+         y="716.289"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.883129"
+       y="758.40021"
+       id="text3095-8"><tspan
+         sodipodi:role="line"
+         id="tspan3097-3"
+         x="60.883129"
+         y="758.40021"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.883129"
+       y="800.85919"
+       id="text3099-18"><tspan
+         sodipodi:role="line"
+         id="tspan3101-9"
+         x="60.883129"
+         y="800.85919"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="60.883129"
+       y="850.40649"
+       id="text3099-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan3101-4-4"
+         x="60.883129"
+         y="850.40649"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif;stroke-width:1">.</tspan></text>
+  </g>
 </svg>
