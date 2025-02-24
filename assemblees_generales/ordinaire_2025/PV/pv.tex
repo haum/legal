@@ -1,0 +1,284 @@
+\documentclass[a4paper, 11pt]{article}
+	\usepackage[utf8]{inputenc}
+    \usepackage[french]{babel}
+    \usepackage[T1]{fontenc}
+    \usepackage[top=3cm,, right=2cm,bottom=2cm,left=2cm]{geometry}
+    \usepackage{eurosym} %pour le symbole euro
+
+    \usepackage{tabularx}
+    \usepackage{soul}
+	\usepackage{enumitem}
+	\usepackage{pdfpages}
+    \usepackage[page]{appendix}
+    \renewcommand{\appendixpagename}{Annexes}
+
+    \title{Hackerspace Au Mans}
+    \author{Procès-Verbal des Assemblées Générales Ordinaire et Extraordinaire}
+    \date{Le jeudi 11 février 2025}
+
+    \newcommand\sep{\noindent\rule{\linewidth}{.5pt}}
+
+    \newcommand{\vote}[5]{
+
+        \bigskip
+        \begin{center}
+        \noindent\fbox{%
+            \parbox{10cm}{%
+                \smallskip
+                \begin{center}\ul{\textsc{Vote}}\end{center}
+                Objet : #1\\
+                \begin{center}
+                \textbf{Votants} #2\\
+                \textbf{Pour} #3\\
+                \textbf{Contre} #4\\
+                \textbf{NSPP} #5
+                \end{center}
+                \smallskip
+            }%
+        }
+        \end{center}
+        \medskip
+    }
+
+    \newcommand\question[2]{\noindent\ul{\textit{\textsc{$\bullet$ #1}}}\\#2\\}
+
+    %\ul{#2}}
+
+
+\begin{document}
+
+\maketitle
+
+\section{Effectifs}
+
+\begin{itemize}
+	\item Personnes présentes : 
+		\begin{itemize}
+            \item Jérôme BRÉHÉRET
+            \item Mathieu GABORIT
+            \item Agathe MERCIER
+            \item Franck DUHIL
+            \item Sébastien CHOBLET
+            \item Sébastien VALLÉE
+            \item Joël PETIT
+            \item Dag-Erling SMÖRGRAV
+            \item Laurent VANNIER
+            \item Qian WANG
+            \item Florent TOUCHARD (Arrivée à 21h30)
+		\end{itemize}
+	\item Membres absents ayant donné procuration à Joël PETIT :
+		\begin{itemize}
+			\item Benoit PAU
+		\end{itemize}
+\end{itemize}
+
+\bigskip
+
+%%La présidence actuelle décide d'accorder le droit de vote à tous les présents 
+%%pour la durée de cette AG.
+\setlist{nosep,after=\vspace{\bigskipamount}}
+
+\section{Assemblée générale ordinaire}
+\textbf{La séance est ouverte à 21h25}
+\subsection*{Préambule}
+
+Le président lance un vote pour donner droit de vote à l'ensemble des personnes 
+majeures présentes.
+
+\vote{Droit de vote de toutes les personnes majeures présentes et représentées}{11}{11}{0}{0}
+
+Le vote est accordé à toutes les personnes majeures présentes et représentées 
+dans l'assemblée.
+
+\subsection{Rapport Moral}
+
+Le rapport moral (cf annexe) est présenté par le président.
+
+\vote{Rapport moral}{12}{11}{0}{1}
+
+Le rapport moral est validé par l'assemblée.
+
+\subsection{Rapport Financier}
+
+Le trésorier présente le rapport financier (cf annexe).
+
+Les cotisations sur 2024 ont diminuées par rapport à 2023. On passe de 1251\euro{} en 
+2023 à 940\euro{} en 2024. Cela peut s'expliquer par la perte de deux entreprises 
+cotisantes sur l'année 2024. Pour ce début d'année 2025, les cotisations sont en bonne 
+voie, car au moment de l'assemblée générale, plus de la moitié des cotisations de 2024 
+étaient deja payées. Le trésorier note cependant le besoin de trouver de nouveaux 
+adhérants pour générer de nouvelles cotisations. Le trésorier met l'accent sur nos 
+présences à des évènements qui sont rétribués, afin de générer de la trésorerie, et 
+ainsi financer les projets futurs et faire vivre l'association !
+
+\vote{Rapport financier}{12}{11}{0}{1}
+
+Le rapport financier est validé par l'assemblée.
+
+\subsubsection{Vie de l'asso : Questions et remarques sur le rapport financier}
+
+\subsection{Élection du bureau}
+
+L'ensemble du bureau souhaite se représenter, à l'exception de Romuald CONTY, absent lors 
+de cette assemblée, et sans représentant. Dag-Erling Smörgrav souhaite faire parti du bureau.
+Aucune contre-indication ne vient de l'assemblée à ces annonces.
+
+Se présentent donc à l'élection au bureau :
+
+\begin{itemize}
+	\item Jérôme BREHERET
+	\item Mathieu GABORIT
+	\item Florent TOUCHARD
+	\item Sébastien VALLÉE
+	\item Laurent VANNIER
+	\item Dag-Erling SMÖRGRAV
+\end{itemize}
+
+Il est également convenu avec l'assemblée, toujours dans un but d'accélérer ce vote que ce 
+dernier serait voté "en bloc".
+
+La prochaine question mise au vote est donc : "Acceptez vous que la liste précédente soit 
+membre du bureau de l'association ?".
+
+\vote{Élection des membres du bureau}{12}{12}{0}{0}
+
+\textbf{La séance est levée à 22h15}
+
+\section{Réunion de bureau}
+
+Alors que l'ensemble des membres du nouveau bureau est présent, il est décidé de procéder 
+dans l'immédiat aux élections internes à celui-ci. Pour les votes suivants, le collège 
+électoral est réduit au bureau seul (soit 6 membres, tous présents). Un tour de table 
+des membres du bureau est organisé pour que chacun propose le poste qu'il souhaite occuper.
+
+Après le tour de table, le vote concerne donc l'attribution de ces postes :
+\begin{itemize}
+    \item Jérôme BRÉHERET au poste de président
+    \item Sébastien VALLÉE au poste de vice-président
+    \item Mathieu GABORIT au poste de trésorier
+    \item Dag-Erling SMÖRGRAV au poste de secrétaire
+    \item Laurent VANNIER au poste de vice-secrétaire
+    \item Florent TOUCHARD au poste de membre du bureau
+\end{itemize}
+
+\vote{Reconduction des rôles au sein du bureau}{6}{6}{0}{0}
+
+Les rôles des membres du bureau sont donc validés.
+
+\section{Composition du bureau}
+\begin{description}
+  \item[Président] Jérôme BRÉHÉRET
+  \item[Vice-Président] Sébastien VALLÉE
+  \item[Trésorier] Mathieu GABORIT
+  \item[Secrétaire] Dag-Erling SMÖRGRAV
+  \item[Vice-Secrétaire] Laurent VANNIER
+  \item[Membre du bureau] Florent TOUCHARD
+\end{description}
+
+La composition du bureau est validé par l'assemblée.
+\bigskip
+
+\textbf{La séance est levée à 22h30.}
+
+\bigskip\bigskip
+
+\sep
+
+\bigskip\bigskip
+
+Le présent procès-verbal est approuvé par le président du HAUM.
+
+\bigskip\bigskip
+
+Président :
+
+
+
+\clearpage
+\begin{appendices}
+\section{Rapport Moral}
+
+\subsection{Vie de l'association}
+
+Nous comptons 23 adhérants sur l'année 2024. C'est moins de cotisation au total 
+que l'année précédente.
+On compte peu de projets communs, mais plus de projets personnels et partagés.
+Beaucoup de visiteurs "uniques" sont venus, par curiosité pour découvrir le lieu.
+Nous notons et apprecions également les efforts de Hugues de ST Microelectronics, qui
+s'est démené pour nous obtenir du matériel réformé. Au final, le matériel s'est révélé 
+non fonctionnel, mais l'effort a été très apprécié du côté du bureau, qui note que cela 
+à permis de maintenir la relation avec ST Microelectronics.
+
+Un point sera à faire avec le plateau LMI, afin de mettre en place une convention
+pour cadrer le partenariat en cours depuis 2017.
+
+\subsection{Bilan}
+
+\subsubsection{Évènements et projets terminés}
+
+Sur l'année 2024, Le HAUM a participé à moins d'évènements et de projets qu'en 2023. 
+Les évènements notables de 2024 sont présentés ci-après :
+
+\paragraph{Teriaki 2024} Malheureusement, faute de personnes suffisantes sur le projet,
+nous n'avons rien pu présenter pour cet évènement où nous avons habituellement notre 
+place. Il ne faudrait pas manquer le RDV en 2025, pour garder cette place de choix dans 
+les exposants de Teriaki !
+
+\paragraph{Les 24 heures du code 2024} Le sujet proposé se nomme "L'odysée d'HAUMère" et 
+consiste en 
+%Décrire le projet !
+
+\paragraph{IdiHAUM} Il a été décidé de réécrire le code d'IdiHAUM en Python, afin de 
+mieux le maintenir et pouvoir ajouter de nouvelles fonctionnalités à celui-ci, comme la 
+désactivation des badges d'accès ou des utilisateurs (et de tous leurs badges).
+
+\paragraph{Les sessions bidouille} Chaque mardi soir, les portes du HAUM sont ouvertes 
+à tous ceux et celles qui veulent bien les pousser.
+
+\subsubsection{Projets et axes}
+
+Aujourd'hui, il y a peu de projets en cours. Au niveau collectif, nous avons aujourd'hui:
+\bigskip
+\begin{description}
+    \item[Sujet des 24h du code 2025] Création du sujet pour les 24h du code 2025, qui auront lieu les 22 et 23 mars 2025. 
+    \item[Trophée des 24h du code 2025] Création des trophées pour les gagnants des 24H du code
+    \item[Teriaki 2025] Une reflexion sera à entammer après les 24h du code 2025 pour concevoir un projet à présenter lors de Teriaki 2025, si nous sommes toujours convié à cet évènement. 
+\end{description}
+
+\subsection{Matériel disponible}
+
+Le HAUM dispose actuellement du matériel suivant (entre autres):
+
+\begin{itemize}
+    \item Une découpeuse laser (Prêt de Le Mans Innovation)
+    \item Une imprimante 3D (Prêt de Le Mans Innovation)
+    \item Une imprimante 3D Bambulab P1S Combo
+    \item Une génératrice d'étincelles (soudeuse par point)
+    \item Une découpeuse vinyle Caméo (plotter de découpe)
+    \item Outils pour l'électronique (dont un fer à souder acquis par le HAUM cette année)
+    \item Outillage électroportatif et manuel
+    \item Fraiseuse CNC 3 axes de table
+    \item La majorité des projets passés
+\end{itemize}
+
+\subsection{Objectifs}
+
+
+Objectif donné pour 2025 : S'organiser pour débarrasser le local pour 
+désencombrer et acceuillir du nouveau matériel !
+
+
+\subsection{Mot personnel du président}
+
+%A REVOIR PAR JEROME, S'IL LE VEUT...
+``Je tenais à vous remercier pour la solidarité rencontrée dans l'association,
+que j'ai pu observer lors de ma convalescence, pendant laquelle j'ai toujours pu trouver
+quelqu'un pour m'emmener de chez moi au local du HAUM, contribuant à ne pas me retrouver
+dans un immobilisme dur à supporter. Grand merci !''
+
+\section{Rapport Financier}
+% A INCLURE !
+%\includegraphics[scale=0.9]{../convocation/bilan2025_general.pdf}
+%\includepdf[pages=-]{../convocation/prev2025.pdf}
+\end{appendices}
+\end{document}
